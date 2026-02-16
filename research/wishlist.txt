@@ -1,0 +1,10 @@
+# wanted files
+
+# releases
+qr10d_up.zip
+qr10e_up.zip
+qr11a_up.zip
+qr11beta.zip
+
+ # other files
+qrspecs.zip
