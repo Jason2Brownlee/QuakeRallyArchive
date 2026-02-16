@@ -1,10 +1,10 @@
-# Quake Rally
+# Quake Rally Archive
 
 This project archives all releases of the **Quake Rally** modification for Quake 1.
 
 **Quake Rally** is a total conversion modification for Quake developed by the "Impact Development Team" circa 1997.
 
-## Navy Seals File Releases
+## Quake Rally File Releases
 
 Chronological list of official Quake Rally releases in [bin/](bin/) including date, filename link, and description.
 
