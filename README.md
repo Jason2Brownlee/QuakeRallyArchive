@@ -63,6 +63,15 @@ Tubular Cataclysm | [peejqr2.txt](bin/maps/peejqr2.txt)<br>[peejqr2.zip](bin/map
 Urban Driveby | [udriveby.txt](bin/maps/udriveby.txt)<br>[udriveby.zip](bin/maps/udriveby.zip)
 Vulcan | [vulcan.txt](bin/maps/vulcan.txt)<br>[vulcan.zip](bin/maps/vulcan.zip)
 
+## Quake Rally Precursors and Extensions
+
+Alphabetical list of precursor and extension mods for Quake Rally in [bin/extensions/](bin/extensions/).
+
+Name | File(s)
+--- | ---
+Quake Kart | [kartspec.txt](extensions/kartspec.txt)
+
+
 ## How You Can Help
 
 Maybe you can help to make this archive more complete.
