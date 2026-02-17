@@ -2,7 +2,7 @@
 
 This project archives all releases of the **Quake Rally** modification for Quake 1.
 
-**Quake Rally** is a total conversion modification for Quake developed by the "Impact Development Team" circa 1997.
+**Quake Rally** (aka QuakeRally or QRally) is a total conversion modification for Quake developed by the "Impact Development Team" circa 1997.
 
 ## Quake Rally File Releases
 
