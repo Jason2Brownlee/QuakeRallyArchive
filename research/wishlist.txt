@@ -8,3 +8,4 @@ qr11beta.zip
 
  # other files
 qrspecs.zip
+UR_promo.zip
