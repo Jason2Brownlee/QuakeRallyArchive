@@ -10,7 +10,10 @@ qr12_up.zip
  # other files
 qrspecs.zip
 qrwad10.zip
-UR_promo.zip
 
 # maps
 deadlust.zip
+
+# extensions
+UR_promo.zip
+qCR.zip

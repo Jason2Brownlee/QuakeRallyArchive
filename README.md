@@ -26,7 +26,6 @@ Release Date | File | Description
 1997-08-18 | [qrallymusic.zip](bin/qrallymusic.zip) | Quake Rally Music Tracks
 1997-10-03 | [qr12.zip](bin/qr12.zip) | Quake Rally v1.2
 1997-10-03 | qr12_up.zip | Quake Rally v1.1 to v1.2 update
-1997-11-09 | UR_promo.zip | Ultimate Rally Promotional Video
 1998-03-29 | [qrlo1.zip](bin/qrlo1.zip)<br>[leftovers.txt](bin/leftovers.txt) | Quake Rally Leftovers (final release)
 
 * **Date Format**: YYYY-MM-DD for easy sorting.
@@ -69,8 +68,10 @@ Alphabetical list of precursor and extension mods for Quake Rally in [bin/extens
 
 Name | File(s)
 --- | ---
-Quake Kart | [kartspec.txt](extensions/kartspec.txt)
-
+Checkered Flag: GoldCup | [GCdemo.zip](bin/extensions/GCdemo.zip)<br>[GCv1.2.zip](bin/extensions/GCv1.2.zip)<br>[CFv1.2.zip](bin/extensions/CFv1.2.zip)<br>[CFv1.3.zip](bin/extensions/CFv1.3.zip)<br>[CFPREFABS.zip](bin/extensions/CFPREFABS.zip)<br>[CFTEX.zip](bin/extensions/CFTEX.zip)<br>[CFSOURCE.zip](bin/extensions/CFSOURCE.zip)<br>[goldcup.zip](bin/extensions/goldcup.zip)
+Quake Championship Racing | qCR.zip
+Quake Kart | [kartspec.txt](bin/extensions/kartspec.txt)
+Ultimate Rally | UR_promo.zip
 
 ## How You Can Help
 
