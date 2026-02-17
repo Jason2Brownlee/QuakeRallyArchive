@@ -11,3 +11,6 @@ qr12_up.zip
 qrspecs.zip
 qrwad10.zip
 UR_promo.zip
+
+# maps
+deadlust.zip

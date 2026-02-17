@@ -38,3 +38,6 @@ http://www.time2quake.com/filez/quakerally/qrspecs.zip
 # UR_promo.zip
 http://impact.frag.com/files/UR_promo.zip
 http://www.bluesnews.com/files/gamemovies/ur_promo.zip
+
+# deadlust.zip
+ftp://cyanide.ml.org/pub/qrally/maps/deadlust.zip
