@@ -12,11 +12,13 @@ http://impact.frag.com/files/qr10e_up.zip
 # qr11a_up.zip
 ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11a_up.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11a_up.zip
+http://anet-stl.com/~aclowry/mud/qr11a_up.zip
 
 # qr11beta.zip
 ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11beta.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11beta.zip
 ftp://ftp.stomped.com/pub/redwood/quakec/qr11beta.zip
+http://anet-stl.com/~aclowry/mud/qr11beta.zip
 
 # qr12_up.zip
 ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr12_up.zip
