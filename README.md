@@ -21,7 +21,8 @@ Release Date | File | Description
 1997-07-22 | qr11beta.zip | Quake Rally v1.1 beta
 1997-07-23 | [qr11a.zip](bin/qr11a.zip) | Quake Rally v1.1a
 1997-07-23 | qr11a_up.zip | Quake Rally v1.1a update
-1997-07-25 | [qrWAD11.zip](bin/qrWAD11.zip) | Quake Rally Texture Wad
+1997-07-?? | qrwad10.zip | Quake Rally Textures v1.0
+1997-07-25 | [qrWAD11.zip](bin/qrWAD11.zip) | Quake Rally Textures v1.1
 1997-08-18 | [qrallymusic.zip](bin/qrallymusic.zip) | Quake Rally Music Tracks
 1997-10-03 | [qr12.zip](bin/qr12.zip) | Quake Rally v1.2
 1997-10-03 | qr12_up.zip | Quake Rally v1.1 to v1.2 update

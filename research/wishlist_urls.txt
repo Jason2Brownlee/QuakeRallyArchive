@@ -25,6 +25,9 @@ ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr12_up.zip
 ftp://ftp.torget.se/quake/tc/qr12_up.zip
 http://impact.frag.com/files/qr12_up.zip
 
+# qrwad10.zip
+http://deathed.stomped.com/files/qrwad10.zip
+
 # qrspecs.zip
 http://impact.frag.com/files/qrspecs.zip
 http://www.time2quake.com/filez/quakerally/qrspecs.zip

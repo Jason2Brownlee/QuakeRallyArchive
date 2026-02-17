@@ -9,4 +9,5 @@ qr12_up.zip
 
  # other files
 qrspecs.zip
+qrwad10.zip
 UR_promo.zip
