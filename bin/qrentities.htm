@@ -1,0 +1,573 @@
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://impact.frag.com:80/rally/qrentities.htm","19980206052207","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "886742527");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>Quake Rally responce form</title>
+</head>
+<body text="#DDDDDD" link="#AA7AA0" vlink="#7ABAA0" bgcolor="#000000">
+
+<center>
+<hr>
+<b><font size="+3" color="#AABBDD">QUAKE RALLY ENTITIES</font></b><br>
+<font size="-1" color="#AABBDD">Custom Entity Documentation</font>
+</center>
+<hr>
+<p>
+The following documentation details all the special entities you can
+use to create <b>Quake Rally</b> maps. Most <font color="#FFAAFF">entities</font>
+and <font color="#AAFFFF">keys</font> aren't required at all to
+make maps work in <b>QR</b>, only the entities listed in <font color="#00FF00">
+green</font> are the very important ones. All <font color="#FFAAFF">entities</font>
+and <font color="#AAFFFF">keys</font> must be lowercase or they will not work.
+</p>
+<p>
+<ul>
+<li><a href="#SUMMARY">ENTITY SUMMARY</a></li>
+<li><a href="#GENERAL">GENERAL ENTITIES</a></li>
+<li><a href="#RACING">RACING ENTITIES</a></li>
+<li><a href="#WEAPON">WEAPON ENTITIES</a></li>
+<li><a href="#ENVIRONMENTAL">ENVIRONMENTAL ENTITIES</a></li>
+<li><a href="#MISCELLANEOUS">MISCELLANEOUS ENTITIES</a></li>
+</ul>
+
+</p>
+<p>
+<b>SPECIAL NOTES:</b>
+</p>
+<table>
+<tr><td valign="TOP"><b><font size="+2" color="#FF0000">*</font></b></td>
+<td>The are two entities which MUST be in a Quake Rally map for it to work correctly;
+  the <font color="#00FF00">race_type</font> key in the worldspawn entity,
+  and at least one <font color="#FFAAFF">info_player_deathmatch</font>.</td></tr>
+<tr><td valign="TOP"><b><font size="+2" color="#FF0000">*</font></b></td>
+<td>If the map is a racing map (either with weapons or without), then there
+are two types of entities that MUST be additionally in the map;
+<font color="#00FF00">rally_startfinish(_brush)</font> and
+<font color="#00FF00">rally_marker</font>. If you want a visible waving flag
+in your map, you will also need to add a <font color="#FFAAFF">rally_startfinish_flag</font>
+at the appropriate location.</td></tr>
+
+<tr><td valign="TOP"><b><font size="+2" color="#FF0000">*</font></b></td>
+<td><p>Many of the entities listed are available in two flavours; <b>fixed-size</b> and <b>_brush</b>.
+If you use the "<b>fized-size</b>" variety, then you should read the next Special Note
+too, but generally you will always want to use the "<b>_brush</b>" variety.</p>
+<p>In <b>Worldcraft</b>, these entities are created by first constructing a brush
+exactly where you want the entities "area of trigger" to be, and then clicking
+on "<b>ToEntity</b>" which will then turn that brush into an entity. Other editors probably
+work in a similar way. This has the benefit of giving you <i>total</i> control over the
+"area of trigger" for that entity.</p></td></tr>
+
+<tr><td valign="TOP"><b><font size="+2" color="#FF0000">*</font></b></td>
+<td><p>This only applies if you find you need to use <b>fixed-size</b> brushes;
+ all the entities that have a fixed size of (-128 -128 -24) (128 128 16)
+  can have their X &amp; Y extreminites altered by setting the <font color="#AAFFFF">"speed"</font> key
+  for the entity to a number other than 128. eg. if I were to say:</p>
+
+  <p><font color="#AAFFFF">"speed" "64"</font></p>
+
+  <p>Then that entity will be created with a bounding box of
+  (-64 -64 -24) (64 64 16).</p>
+
+  <p><b><font color="#FF0000">*** IMPORTANT:</font></b> Setting the bounding boxes correctly is vitally important
+  because a <b>fixed-size</b> entity will <b>NOT</b> work if it touches or cuts into the walls of the map.</p>
+</td></tr>
+</table>
+
+<hr>
+<a name="SUMMARY">
+<p><b><font color="#379DBA" size="+2">ENTITY SUMMARY</font></b></p>
+<hr>
+
+<p>Here is a summary of all the <b>Quake Rally</b> entities. For more full details
+of each entity, see the sections after the summary. The columns are; entity name,
+key name, key values.</p>
+
+<center>
+<table border="1">
+<tr>
+<td><font size="+2"><center><i><b>ENTITY</b></i></center></font></td>
+<td><font size="+2"><center><i><b>KEY</b></i></center></font></td>
+<td><font size="+2"><center><i><b>VALUE</b></i></center></font></td>
+</tr><tr>
+<td colspan="3"><b><font color="#379DBA">GENERAL ENTITIES</font></b>
+</tr><tr>
+<td><font color="#FFAAFF">rally_jump_brush</font></td>
+<td>N/A</td>
+<td>N/A</td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_changesurface<br>rally_changesurface_brush</font></td>
+<td><font color="#AAFFFF">current_surface</font></td>
+<td><font color="#AAFFFF">1</font> (mud)<br>
+    <font color="#AAFFFF">2</font> (asphalt)<br>
+    <font color="#AAFFFF">3</font> (grass)</td>
+</tr><tr>
+<td><font color="#FFAAFF">"worldspawn entity"</font></td>
+<td><font color="#00FF00">race_type</font></td>
+<td><table><tr><td>
+<font color="#AAFFFF">racing</font><br>
+<font color="#AAFFFF">racing_dm</font><br>
+<font color="#AAFFFF">dm</font></td><td>
+(pure racing, no weapons)<br>
+(racing with weapons)<br>
+(pure Deathmatch)</td></tr></table></td>
+</tr><tr>
+<td><font color="#00FF00">info_player_deathmatch</font></td>
+<td><font color="#AAFFFF">angle</font></td>
+<td><font color="#AAFFFF">"angle for car to face"</font></td>
+</tr><tr>
+<td colspan="3"><b><font color="#379DBA">RACING ENTITIES</font></b>
+</tr><tr>
+<td><font color="#00FF00">rally_marker</font></td>
+<td><font color="#AAFFFF">ammo_shells<br>angle</font></td>
+<td><font color="#AAFFFF">"marker index number (starting with 1)"<br>"direction to face player upon respawn"</font></td></tr>
+</tr><tr>
+<td><font color="#00FF00">rally_startfinish<br>rally_startfinish_brush</font></td>
+<td><font color="#AAFFFF">ammo_shells<br>ammo_nails</font></td>
+<td><font color="#AAFFFF">"number of markers in the map"<br>"number of laps to complete the race"</font></td></tr>
+</tr><tr>
+<td><font color="#FFAAFF">rally_startfinish_flag</font></td>
+<td>N/A</td>
+<td>N/A</td>
+</tr><tr>
+<td colspan="3"><b><font color="#379DBA">WEAPON ENTITIES</font></b></td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_repulsor</font></td>
+<td colspan="2">(non-recharable; wears down from use)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_supernailgun</font></td>
+<td colspan="2">(uses standard Quake "nails" ammo)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_detonator</font></td>
+<td colspan="2">(uses standard Quake "missile" ammo)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_minelauncher</font></td>
+<td colspan="2">(uses standard Quake "missile" ammo)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_rocketlauncher</font></td>
+<td colspan="2">(uses standard Quake "missile" ammo)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_lasergun</font></td>
+<td colspan="2">(uses standard Quake "charge" ammo)</td>
+</tr><tr>
+<td colspan="3"><b><font color="#379DBA">ENVIRONMENTAL ENTITIES</font></b></td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_cone</font></td>
+<td>N/A</td><td>N/A</td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_baracade</font></td>
+<td><font color="#AAFFFF">angle</font></td>
+<td><font color="#AAFFFF">"angle for flat side of barracade"</font></td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_stopsign</font></td>
+<td><font color="#AAFFFF">angle</font></td>
+<td><font color="#AAFFFF">"angle to face sign"</font></td>
+</tr><tr>
+<td colspan="3"><b><font color="#379DBA">MISCELLANEOUS ENTITIES</font></b></td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_spawn_dude</font></td>
+<td>N/A</td><td>N/A</td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_spawn_kangaroo</font></td>
+<td>N/A</td><td>N/A</td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_kangaroo</font></td>
+<td>N/A</td><td>N/A</td>
+</tr><tr>
+</table>
+</center>
+<br>
+
+<hr>
+<a name="GENERAL">
+<p><b><font color="#379DBA" size="+2">GENERAL ENTITIES</font></b></p>
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_jump_brush</font></td><td width="10%"></td>
+<td width="400">entity bound to a brush of user size/shape
+</tr>
+</table></p>
+
+<p>This tells the code that the next time the car becomes airborne, extra
+upwards velocity should be applied. These should be placed at the base or
+somewhere along the jump, such that the top of the jump is reached within
+2 seconds of touching the <td><font color="#FFAAFF">rally_jump</font> entity.
+This entity is only needed if you want to do a mega-jump.</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_changesurface</font></td><td width="10%"></td>
+<td>fixed size (-128 -128 -24) (128 128 16)</td>
+</tr><tr>
+<td><font color="#FFAAFF">rally_changesurface_brush</font></td><td width="10%"></td>
+<td>entity bound to a brush of user size/shape (prefered)</td>
+</tr>
+</table></p>
+
+<p>This tells the code that the current surface being driven on has changed.
+Ideally used when changing from a dirt segment of track to bitumen, or
+vice versa. Unfortunately this surface changing is really only workable
+in racing maps instead of DM maps.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table><tr>
+<td><font color="#AAFFFF">current_surface</font></td><td width="10%"></td>
+<td><font color="#AAFFFF">1</font> (mud)<br>
+    <font color="#AAFFFF">2</font> (asphalt)<br>
+    <font color="#AAFFFF">3</font> (grass)</tr>
+</tr></table>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF"><i>worldspawn</i></font></td><td width="10%"></td>
+<td width="80%"><font color="#FF0000"><b>NOTE:</b></font> this entity is a
+builtin entity type, you do not add it yourself.
+</tr>
+</table></p>
+
+<p><font color="#FF0000"><b>Important:</b></font> The <font color="#FFAAFF"><i>worldspawn</i></font>
+entity is a "builtin" entity to all maps and should not be created by hand.  It's
+important in <b>Quake Rally</b> because <b>QR</b> uses a new <font color="#AAFFFF">key</font> called
+<font color="#00FF00">race_type</font>. This additional key defines
+the default game mode of the map. In Worldcraft, this special entity is edited via the
+"Map Properties" tool (remember, you need to turn off 'SmartEdit' to add a key),
+or in the .map file it's the entity at the top like:</p>
+
+<p><t>
+<table><tr>
+<td width="30">{</td><td></td></tr><tr>
+<td></td><td>"classname" "worldspawn"<br>
+"nexttrack" "qrally02"<br>
+.<br>
+.</td></tr><tr>
+<td>}</td><td></td>
+</tr></table>
+</t></p>
+
+<p>This <font color="#00FF00">key</font> MUST be set for all <b>Quake Rally</b>
+maps if you wish them to play correctly.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table><tr>
+<td><font color="#00FF00">race_type</font></td><td width="10%"></td>
+<td><table>
+<tr><td><font color="#AAFFFF">racing</font></td>
+<td width="70%">- pure racing, no weapons</td><tr>
+<tr><td><font color="#AAFFFF">racing_dm</font></td>
+<td>- racing with weapons</td></tr>
+<td><font color="#AAFFFF">dm</font></td>
+<td>- pure Deathmatch</td></tr></table>
+</tr></table>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#00FF00">info_player_deathmatch</font></td><td width="10%"></td>
+<td>(has no size)</td>
+</tr>
+</table></p>
+
+<p>This is a standard entity from Quake and is used for all player start
+points in a <b>Quake Rally</b> map (ie. <b>QR</b> does <b>not</b> use the
+<font color="#FFAAFF">info_player_start</font> entity). <b>QR</b>
+currently supports up to <b>8</b> players so always have at least 8
+of these entities.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table>
+<tr><td><font color="#AAFFFF">angle</font></td><td width="20%"></td>
+<td width="200"><font color="#AAFFFF">"angle for car to face"</font></td></tr>
+</tr></table>
+
+<hr>
+<a name="RACING">
+<p><b><font color="#379DBA" size="+2">RACING ENTITIES</font></b></p>
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#00FF00">rally_marker</font></td><td width="10%"></td>
+<td>(has no size)</td>
+</tr>
+</table></p>
+
+<p>This is one of the essential entities IF the map type is one of the
+two racing styles.</p>
+
+<p>The entity is used to validate that a player has completed a lap. Markers are placed
+around the track, preferably at the beginning and end of each straight,
+with a limit of 12 markers per track. This is vital for the position
+calculation code to work accurately. If a player destroys their vehicle,
+they will respawn at the last marker touched, and will be facing the
+direction specified by the marker. Markers are visible in time trial
+as flags.</p>
+
+<p>Markers are numbered starting at 1 and the code checks to see that the
+player has gone past each marker in the correct progression (ie. the
+player MUST go through in order of 1 2 3 4 etc).
+The <font color="#AAFFFF">angle</font> key is also used to determine
+whether or not the player is driving in the correct direction.</p>
+
+<p>The <font color="#00FF00">rally_marker</font> entity, unlike most
+others in <b>QR</b> has no size, instead the code considers that a car
+has touched it if it comes within 384 units of the marker location (or
+64 units if the skill is &gt;1 and you are in "Time Trial" mode).
+Keep this in mind when placing markers.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table>
+<tr><td><font color="#AAFFFF">ammo_shells</font></td><td width="10%"></td>
+<td><font color="#AAFFFF">"marker index number (starting with 1)"</font></td></tr>
+<tr><td><font color="#AAFFFF">angle</font></td><td width="10%"></td>
+<td><font color="#AAFFFF">"direction to face player upon respawn"</font></td></tr>
+</tr></table>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#00FF00">rally_startfinish</font></td><td width="10%"></td>
+<td>fixed size (-128 -128 -24) (128 128 16)</td>
+</tr><tr>
+<td><font color="#00FF00">rally_startfinish_brush</font></td><td width="10%"></td>
+<td>entity bound to a brush of user size/shape (prefered)</td>
+</tr>
+</table></p>
+
+<p>This is one of the essential entities IF the map type is one of the
+two racing styles.</p>
+
+<p>This entity identifies the start and end of a racing map although it
+is separate to the "visible" flag which is placed by the
+<font color="#FFAAFF">rally_startfinish_flag</font> entity. Upon touching
+this entity, the code checks to make sure each marker has been
+activated in sequence, if so, the lap is awarded. You may only place one of these
+in each map.</p>
+
+<p>This entity uses two keys; one to tell it how many markers are to be found
+in the map and one to tell it how many laps the race will be.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table>
+<tr><td><font color="#AAFFFF">ammo_shells</font></td><td width="10%"></td>
+<td><font color="#AAFFFF">"number of markers in the map"</font></td></tr>
+<tr><td><font color="#AAFFFF">ammo_nails</font></td><td width="10%"></td>
+<td><font color="#AAFFFF">"number of laps to complete the race"</font></td></tr>
+</tr></table>
+
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_startfinish_flag</font></td><td width="10%"></td>
+<td>(has no size)</td>
+</tr>
+</table></p>
+
+<p>This is the visible start/finish flag. Since it's separate to the
+actual trigger it can theoretically be placed anywhere, although it
+would be best to place it near the <font color="#00FF00">rally_startfinish_brush</font>
+entity somewhere.</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<a name="WEAPON">
+<p><b><font color="#379DBA" size="+2">WEAPON ENTITIES</font></b></p>
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#FFAAFF">weapon_repulsor</font></td><td width="10%"></td>
+<td>non-recharable (wears down from use)</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_supernailgun</font></td><td width="10%"></td>
+<td>uses standard Quake "nails" ammo</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_detonator</font></td><td width="10%"></td>
+<td>uses standard Quake "missile" ammo</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_minelauncher</font></td><td width="10%"></td>
+<td>uses standard Quake "missile" ammo</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_rocketlauncher</font></td><td width="10%"></td>
+<td>uses standard Quake "missile" ammo</td>
+</tr><tr>
+<td><font color="#FFAAFF">weapon_lasergun</font></td><td width="10%"></td>
+<td>uses standard Quake "charge" ammo</td>
+</tr>
+</table></p>
+
+<p>All other weapon entities will be ignored by QuakeRally so don't
+bother placing grenades or shotguns in maps. Other Quake entities
+such as the pentagram and quads do work although
+are unsupported.</p>
+
+<p>All three varieties of health from Quake are supported in <b>QuakeRally</b>
+however their values are changed somewhere. Small (rotten) health is worth
+5 health points (as apposed to 10 in Quake). The aim is that these are to be
+spread out quite heavily around the map allowing easy, but small, top-ups
+on a regular basis. The normal health packs are worth 15 (Quake usually gives
+25) so these are designed to be a little harder to get but worth hunting out
+if you are close to death.</p>
+
+<hr>
+<a name="ENVIRONMENTAL">
+<p><b><font color="#379DBA" size="+2">ENVIRONMENTAL ENTITIES</font></b></p>
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_cone</font></td><td width="10%"></td>
+<td></td>
+</tr>
+</table></p>
+
+<p>Places an orange cone at the specified location. The cones are placed the
+same as health and other items, so they are dropped to the floor
+automatically. Cones are an interactive map element meaning that the
+cars can knock them around.</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_baracade</font></td><td width="10%"></td>
+<td>fixed size (-16 -16 0) (16 16 8)</td>
+</tr>
+</table></p>
+
+<p>Same as cones, except these are larger in size.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table>
+<tr><td><font color="#AAFFFF">angle</font></td><td width="10%"></td>
+<td width="200"><font color="#AAFFFF">"angle for flat side of barracade"</font></td></tr>
+</tr></table>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_stopsign</font></td><td width="10%"></td>
+<td></td>
+</tr>
+</table></p>
+
+<p>Places a stopsign at the given location.</p>
+
+<p>Stopsigns should only be placed on level ground. Otherwise they may look
+dis-oriented if knocked over at low speeds.</p>
+
+<p><b>Keys/Values:</b></p>
+
+<table>
+<tr><td><font color="#AAFFFF">angle</font></td><td width="10%"></td>
+<td width="200"><font color="#AAFFFF">"angle to face sign"</font></td></tr>
+</tr></table>
+
+<hr>
+<a name="MISCELLANEOUS">
+<p><b><font color="#379DBA" size="+2">MISCELLANEOUS ENTITIES</font></b></p>
+<hr>
+
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_spawn_dude</font></td><td width="10%"></td>
+<td></td>
+</tr>
+</table></p>
+
+<p>Spawns a Duke Nukem at the given location. Each time a Duke dies, another is
+spawned at a random <font color="#FFAAFF">rally_spawn_dude</font> location,
+therefore if you place 5 of these in your map, you will always have 5 Dukes
+running around (enough to give anyone nightmares).</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_spawn_kangaroo</font></td><td width="10%"></td>
+<td></td>
+</tr>
+</table></p>
+
+<p>Same as <font color="#FFAAFF">rally_spawn_dude</font> except a kangaroo is
+spawned instead.</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<p><table>
+<tr>
+<td><font color="#FFAAFF">rally_kangaroo</font></td><td width="10%"></td>
+<td></td>
+</tr>
+</table></p>
+
+<p>Spawns a kangaroo at the given location. When this roo dies, it does not
+respawn.</p>
+
+<p><b>Keys/Values:</b> (<font color="#AAFFFF">no keys required</font>)</p>
+
+<hr>
+<p>We will try to make some example .map files available on our web page
+soon (<a href="https://web.archive.org/web/19980206052207/http://impact.frag.com/rally">http://impact.frag.com/rally</a>).
+Every attempt was made to present only 100% correct imformation, but it's problably
+not.</p>
+
+<p>This documentation was written by:</p>
+
+<table><tr>
+<td width="10%"></td>
+<td><b>Rowan "Sumaleth" Crawford</b></td><td width="10%"></td>
+<td><a href="https://web.archive.org/web/19980206052207/mailto:sumaleth@starfury.apana.org.au">sumaleth@starfury.apana.org.au</a></td>
+</tr><tr>
+<td width="10%"></td>
+<td><b>Ryan "Ridah" Feltrin</b></td><td width="10%"></td>
+<td><a href="https://web.archive.org/web/19980206052207/mailto:ridah@frag.com">ridah@frag.com</a></td>
+</tr></table>
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 05:22:07 Feb 06, 1998 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:42:20 Feb 17, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.791
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.049
+  esindex: 0.011
+  cdx.remote: 73.815
+  LoadShardBlock: 235.476 (3)
+  PetaboxLoader3.datanode: 194.47 (4)
+  PetaboxLoader3.resolve: 173.175 (3)
+  load_resource: 165.392
+-->

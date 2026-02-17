@@ -1,0 +1,306 @@
+Quake Kart Map Specs, first draft.  10/19/96
+--------------------------------------------
+
+** This text file is not for redistribution! This file may not be made available for download ANYWHERE. If you wish to make
+this document's existance known to others, inform them that this file may be found on Quake Command, and provide the URL
+(http://www.nuc.net/quake/quakec) this is not a preview or otherwise playable version of Quake Kart, it is a mere 
+specifications sheet for prospective Quake Kart project participants. It belongs online ONLY at Quake Command. Thanks!
+
+(Quake webmasters -> please stick with us on this one.)
+
+IF you have retrieved this file from a source other than Quake Command, please ask the administrator of the source to remove
+this file from their site, or contact me (wedge@nuc.net).
+
+
+I'm not trying to make this seem like something all high and mighty... it's actually quite the opposite: a rough technical
+draft of the Quake Karts map specifications. Should I need to make an important update or bug fix, it would be a hell of a
+lot easier if this file is only available from our Web Site. This ensures that everyone has access to the latest QK map 
+information, and won't have to wonder whether or not an unauthorized mirror site has the latest specifications. 
+
+
+Now we begin:
+
+
+(Any reference to a MAP, TRACK, or LEVEL in this text means "A Quake Kart Track")
+
+Before I begin, I must explain some basic guidelines concerning submission of your work to our project:
+
+
+
+Legalities of sorts:
+--------------------
+Quake Karts will NOT be a shareware, commercial, or otherwise profit-earning release. Quake Command does not intend or expect 
+to earn proft from the Quake Karts project. Just as every other Quake Command project, Quake Karts will be completely and 
+totally free to anyone that wants to download it. If an opportunity to make money from Quake Karts is presented to us, the 
+offer will be declined. (Job offers, on the other hand...). This is because the entire project will belong to ALL of those 
+who have contributed their effort to the final product. 
+
+If we are approached by anyone expressing interest in publishing Quake Karts on floppy disk, CDRom, or any other form of
+media, we will only cooperate if the media will be given away at no charge, or included with the purchase of a computer
+based magazine. Neither of these options will earn any money for Quake Command as a result of the Quake Kart project.
+
+By now you get the point... we aren't out to make a buck. We won't be making bucks. Obviously, this means we are not offering
+money to anyone for work contributed to our project. Written credit will be provided in full in the Quake Karts README file.
+We'll list each Track by name, and provide the author's full name, nick, and email address. You aren't going to be shopping
+for light bulbs and Hawaiin Punch in WalMart and find QUAKE KART on a CDRom next to the checkout counter. If your level is 
+included in the Quake Kart project, it will surely be seen by many, many people... hell, you might even be famous. But none
+of us will make a dime.
+
+** If someone approaches us with the proverbial "Offer we can't refuse", we'll contact all level authors to settle
+authorization and compensation issues before even making a move. This means, if we are paid, you are paid. But I don't see
+this happening. Quake Karts was begun as a non-profit project, and it is our full intent to finish it that way.
+
+
+Don't Get Your Feelings Hurt:
+-----------------------------
+Submission of a level does not guarantee that your level will appear in Quake Karts. We reserve full rights to decline levels
+for any reason. 
+
+EVERY level submitted will be fully inspected and you will receive feedback from us. We'll pat your back or point out areas
+that may need some work. 
+
+This is a daring undertaking on your part. I can explain as much as possible in this text, but there are some things you 
+just don't know about the karts and the way they behave. I'm not prepared to release an Alpha or Beta for the purpose of 
+demonstrating the Karts- I'm sorry. Please read this text carefully and pay special attention to topics that I say may change
+or be added in the future.
+
+If you so choose, send me a level that's only 1/3rd or 1/2 done... this will give me a chance to point out potential trouble
+spots for you and offer some suggestions.
+
+
+Misc:
+-----
+When submitting a not-yet-complete level for inspection, please ZIP the BSP file using the -ex option (extra compression)
+please ensure that only one file is in each ZIP, and do not include .MAP files.
+
+FINAL SUBMISSION - When you submit your finished level, please ZIP the .BSP and .MAP files together (We need the .MAP file
+to examine the custom entities and ensure that they are set up properly)
+
+You are responsible for running LIGHT and VIS on your levels (You must do both! We will not include FULLBRIGHT or 
+vis-problematic levels!) 
+
+
+Deadlines:
+----------
+There is not much work left to be done in Quake Karts (on our end). Barring redesign, only 40% of the code remains and some
+ custom MDLs and graphics still need to be done. I'd like to start seeing some levels by the 28th Of October.
+
+
+
+
+Now, I'll try to cover everything you'll need to know to build ass stompin QKart tracks. Read carefully!
+
+
+KART PHYSICS:
+-------------
+(Here are some of the most frequently asked questions about the Karts and their behavior - and my answers)
+
+	Q:How Fast do the karts go?
+
+	A:Roughly 1/2 the speed of a missile, at maximum throttle speed. 75% of a missile's speed when the Fifth Gear
+	  powerup is in use. Do not make special concerns for karts that are using the Fifth Gear (speed) powerup. 
+	  do not make ramps or other areas that REQUIRE the Fifth Gear powerup to negotiate an obstacle. Not everyone
+	  will have the powerup. I will release a QuakeC modification very soon that will launch karts out of a rocket
+	  launcher. These karts will move along the track at the same speed as a kart that is driving at full throttle.
+
+
+	Q:How far do karts jump? 
+
+	A:Look at the ramp in KART3.MAP. This ramp directly follows a turn, and is usually jumped at slightly less than full
+	  speed, and karts always land in the middle of the landing ramp. I'm going to expand the jumping capacity a bit- 
+	  what you see on Kart3.map is hardly an adrenaline-pumping jump. Expect to roughly double that distance at full 
+	  speed when building your map.	(Kart3.map is included in this archive)
+
+
+	Q:How steep can ramps be?
+
+	A:Do not make any ramps steeper than 45 degrees.
+
+
+	Q:Do the karts take damage from falls? If so - How much, and how far do they have to fall?
+	
+	A:Yes, the karts do take damage from a fall. Damage will be taken from any fall that is about 1 and a half times 
+	  farther than you must fall in (normal) Quake to make the player take damage. The damage inflicted is based directly
+	  on the distance fallen. Due to this feature, try to provide a landing ramp or elevated track section where anyone
+	  jumping a ramp will be landing. On the other hand, feel free to make bottomless pits of death for those who may
+	  miss their jump. Damage taken on an 'average' fall will be between 5-15 points. (Not random, just considering the
+	  average height range that most tracks will be built within)
+
+
+	Q:What happens when a Kart falls a long distance, but doesn't 'break'?
+
+	A:Karts that fall from average or great heights (jumps, etc) will bounce a bit upon landing. This is a realism 
+	  feature. Keep this in mind when building track on the downside of a ramp, or under a track section that has no 
+	  sidewalls or has low overhead clearance. Some karts may fall into this area and bounce. For example, tunnels 
+	  DIRECTLY after a high ramp are  a bad idea, as some karts may be bouncing and won't be able to go through the 
+	  tunnel until they've hit the ground again.
+
+
+	Q:How bad do the karts slide when you take a corner too fast?
+
+	A:Examine the corners in my KART3.MAP. At top speed, all corners can be safely turned, but karts turning these 
+	  corners at high speed will most likely be close to the outside wall at the end of the slide. Making your turns
+	  signifigantly more narrow than the ones in KART3.MAP will force drivers to slow down going into the turn to avoid
+	  sliding and smacking into a wall, which would make them lose speed and possibly bounce out of control. 
+
+
+	Q:Can karts 'ram' other karts? 
+
+	A:This feature is in the works right now. It looks as if you will only be able to ram karts with the front of your
+	  kart. If two karts collide side-by-side, both will lose some speed as a result of the collision, and the karts will
+	  bounce slightly away from each other. On the other hand, if you slam the front of your kart into the side or rear
+	  end of another kart, you will send the other kart careening back from whence they came. 
+
+
+
+IMPORTANT- SURFACE ANGLES:
+--------------------------
+Karts will be able to drive up almost any surface that is not at an acute or right angle to the track. (This means the karts
+can drive up almost any wall that is not vertical or does not lean 'in' towards the track)
+
+Picture that you are standing behind a kart that is driving straight away from you, down a track. Pay attention to the 
+angle of the sidewalls (viewed in crossection) in each situation:
+
+( X = Kart, viewed from behind )
+
+|____X____| 
+Vertical sidewalls. This is fine. The kart cannot drive up the vertical walls. 
+
+
+/____X____\ 
+Concave sidewalls, this is fine, the kart cannot drive up walls that lean in towards the track.
+
+
+\____X____/ 
+Convex sidewalls. If these are not almost vertical, the kart can drive up them almost regardless of the angle. You can use
+this as a 'feature' if you built something like you see below... otherwise avoid convex sidewalls.
+
+
+|__X__        __X__|
+      \___X__/ 
+There are three road surfaces that can be driven on, but there are vertical sidewalls at the highest points to keep karts 
+from driving up and off of the track.
+
+So, this probably sounds like a stupid way to do things, huh? This situation exists because I have not totally given up on
+making full 360 degree inverted loops. In order to achieve this, I have to allow karts to drive 'up' any surface that is 
+not totally vertical. I'm not saying that inverted loops WILL be in Quake Kart, so don't go building them yet.
+
+
+Inclines/Hills:
+
+When a kart is driving up a hill, I have taken care to ensure that all four wheels stay in contact with the road surface.
+This means that a kart driving up a hill, ramp, or other incline will have the same angle as the incline.
+
+(picture this as a side view)
+	    /
+	   /
+Kart --> //
+	 /
+	/   <--- Incline
+
+
+When karts fly off of a ramp, the nose of the kart points up at the angle of the ramp. As the kart flies and loses vertical
+momentum, the nose will slowly tilt down to level off, and as the kart comes down, the nose will point downwards. This is 
+a very nice effect, and makes seeing another kart jumping a ramp very convincing. This works on a smaller scale also if you 
+were to make a physically bumpy road surface... i.e. offroad area.
+
+The karts will NOT tilt to match angle if the track tilts such that the left wheels would be higher or lower than the right
+wheels. (I am working on this now) for now, this means no banked turns, etc.
+
+
+
+Custom Entities:
+----------------
+There are only 2 custom entities in Quake Kart right now... the finish line and the checkpoint. Let me explain.
+
+The Checkpoint:
+In order to prevent cheating, I had to devise a system to make sure drivers were driving the entire course and not trying 
+to do stupid stuff like cross the finish line by turning around and driving the wrong direction. That is what the checkpoint
+entity is for. You must place a checkpoint roughly half-way through your track. The checkpoint is a completely invisible
+entity that sets a flag when a Kart drives through. When a Kart crosses the finish line, this flag is checked. If the flag
+is not set, this means that the Kart did not pass the checkpoint, so he's cheating. At this point, the kart explodes.
+
+If a kart crosses the finish line, and the checkpoint flag is set, the player is credited with a valid lap, and the flag is 
+set back to 0. This means he must again drive through the checkpoint before driving across the finish line. 
+
+The Finish line is also an invisible entity, so feel free to decorate the Finish Line with fancy brushes or what have you.
+
+(A custom QKART.WAD is on the way! There are great start/finish line graphics along with excellent textures for various
+road surfaces... clay, dirt, asphalt, etc.)
+
+BE ABSOLUTELY CERTAIN that you place all of the start points PAST the finish line. Remember that drivers must hit the 
+checkpoint before the finish line. 
+
+
+Now the technicalities of these two entities:
+
+The finish line and checkpoint entities are 192 pixels wide. You may make your track as wide or narrow as you wish, but 
+the track *MUST* be no wider than 192 pixels at the points where you place the finish line and checkpoint entities. If the 
+track is wider than this, any players that are driving very close to the wall may not 'touch' the Checkpoint or Finish line,
+this is a bad thing.
+
+Placing the finish line and checkpoint entities:
+
+Try to place the finish line and checkpoint entities in the center of the track. It is CRITICAL that the entity's angle
+(facing) point in the direction that traffic will be flowing. For instance, if placing the checkpoint on a straight section
+of track that karts will be driving due north on, make sure the entity is facing north also.
+
+To place a finish line, just add an entity with the classname 'kart_finish_line' with your level editor. No extra parameters
+are required.
+
+To place a checkpoint, just add an entity with the classname 'kart_checkpoint' with your level editor. No extra parameters 
+are required.
+
+
+
+POWERUP ITEMS:
+--------------
+None of the powerup items are completely done yet, so I won't talk about them right now. Just keep powerups in mind when
+you build the track, think about where you might place them, etc.
+
+
+TRACK EFFECTS:
+--------------
+I'm working now to implement some dynamic effects on the tracks. Right now these are in an infantile stage, so they shouldn't
+be considered for placement in tracks yet.
+
+
+Track Building DO'S & DON'TS:
+-----------------------------
+DO FORCE drivers to stay on the track. If you are building an area where it will be possible for a kart to fall down between
+a launch and landing ramp, try to ensure that they land on another section of track or in lava (hehe). If you do not, build
+a lift, ramp, or some other means of getting back onto the track. I suggest using sidewalls on the majority of track 
+sections. Be sure you haven't made some way to cheat! Do not make it easier to fly off of the track and drive on at another
+point than it is to just run the course. 
+
+DO make the tracks large! By large, I mean surface area... use techniques such as track-over-track, or underground tunnels 
+below existing track area to provide plenty of racing area, without pushing the limits of map size. 
+
+DO break your maps up visually. Try not to have any areas from which you can see the entire track. Build walls, bleachers,
+buildings, hills, mountains, etc. around the track to limit how much a driver can see at one time. 
+
+DO try to make your corners a little more round than I did in KART3.MAP =)  (see below)
+
+DO incorporate cool stuff. Road hazards are a good idea. Shallow puddles of water in some areas, 'crushers' in tunnels, etc.
+
+DO NOT litter a level with deathtraps. Keep drivers alert, but don't take too much attention away from destroying other 
+drivers in the race. 
+
+DO NOT consider KART3.MAP a 'model' level. It sucks, bad... but it serves it's purpose in testing Quake Karts. It was built
+for that purpose, not beauty. Note that I did not provide a way to get back on the track when you fall off. Even if you
+build sidewalls EVERYWHERE, keep in mind that a missile may blast a kart high into the air, flinging them over your walls
+and off of the track. Provide these poor souls with a way to get back to the action should they survive.
+
+
+
+For a first revision, this should be plenty of information. Look for the 'kart launcher' patch on Quake Command late evening,
+Sunday October 20th. I wanted to have it ready for release with this text, but real life got in the way (again. The nerve!)
+
+If there are any specific topics that I didn't cover in this text file, leave me email and please try to make your question
+as clear and detailed as possible. 
+
+
+-Steve Bond
+wedge@nuc.net
+http://www.nuc.net/quake/quakec
+ 

@@ -1,0 +1,150 @@
+Bugs fixed/Changes in 1.2a:
+
++ Fall in water shouldn't reset health and weapons
+
+
+Bugs fixed/Changes in 1.2:
+
++ Water death removed, now respawns at a random start point, screen goes blue, then fade to normal
++ Chaingun does twice damage
++ Rockets travel faster, and more accurately
++ Detonator's do 100% damage in Deathmatch
+
++ Server crash when entering racing map
++ Finish flag not visible 
+   (now uses rally_startfinish, or rally_startfinish_flag if rally_startfinish_brush is used)
++ Up-hill jerky
+
++ Launcher: Not sending IP address correctly?
+   NOTE: Now uses Q95 appropriately, so you can select Dos Quake to play a net game
++ Enable headlights during single player
+
++ Engine sounds now played via stuffcmd() with aliases, this reduces bandwidth by:
+   * reducing the number of bytes each sound message eats up. Each sound message is now ~5 bytes, as opposed to > 20 bytes
+   * Sounds are played once every 0.2 seconds, as opposed to every server frame (0.05 seconds)
+   * Sounds are played locally, so you only hear engine sounds from your engine, this saves a LOT of bandwidth, esp with lots of players
+
+   NOTE: requires sounds to be re-sampled and amplified with fade IN/OUT
+
++ Addition of Deathmatch 10 setting for maximum lag reduction
++ skill now sets the number of laps (for multiplayer games), laps = skill * 2
++ Launcher: more robust (work without sound, and show more messages for possible reasons why launcher.cfg cannot be created)
++ Launcher: if DosQuake, and Multiplayer Connect, use q95.bat instead of quake.exe
++ func_train doesn't work
++ provide an option to turn off particle clouds and collision fragments (deathmatch 10?)
++ sys_ticrate 0.11 seems to work well with modem play, add this to rally.cfg
++ Remove flags during non-timetrial races (spawn them after a think time of 0.5, so there is time to set the mode of play)
++ Trophy gets left behind in v1.1 (move gun if exists)
++ Only disable in-car view when deathmatch >= 1
++ RL disappears then respawns when Duke picks it up, should remain
++ Prevent car from hanging vertically over the edge of a cliff (as in "the bowl")
+   * restricted pitch to 40 degrees each way
++ Repulsor runs out, then goes to 255 ammo.
++ Check new jumping code
+= Start engine automatically if not start engine within time, rather than disconnect
+= No observers! Late-comers just have less chance of winning :)
+   * Add player to Racing List (behind current loser)
+   * Automatically start engine
+   * last_lap_time = time
+= Finish the race 20 seconds after winner finishes
+= chaingun kill recorded as a suicide
+= bugs.dem, continuous rolling (sideways)
+= bugs.dem, missed lap (increase marker radius, now 384)
+= Straighten wheel during reverse
+
+=  1.1a QRally running on a Linux box
+
+   CP-Keeper entered the game
+   ADDRESS    10303(???)           93(modelindex).      10304(???)
+     LD=TVL-MN[0c] : W_SetCurrentAmmo
+      *O-TZt[1b]ly : PutClientInServer
+   <NO FUNCTION>
+   assignment to world entity
+
+   This occurs on qrally02
+
+Bugs fixed/Changes in 1.1a:
+
++ No Markers in 1.1, crashes time-trial!
++ Runaway loop error with new anti-water chasecam code (removed)
++ On an uphill section. when you fire the nailgun it shoots as though the
+   car was on flat ground
++ Cycle weapon doesn't work with Laser gun. sometimes it autoselects the
+   laser. othertimes it doesn't. either way you can't cycle to it or from
+   it
++ with Gatling(super nail)  held down fire trigger until ammo counter went
+   below zero and looped to 250
++ Gatling requires at least 2 nails to select (not cycle to though). even
+   though it only takes 1 when fired
++ Head on a 90d slant when almost dead?
++ Put headlight toggle back in, but not during multiplay (this would KILL net play)
++ Repulsor selectable without picking up weapon (bug.dem)
++ Make delay for selecting the default car a little longer, not occuring on some machines
+
+Bugs fixed/Changes in 1.1beta:
+
+* Worked on Net optimizations, reduced entity count from 6 to 3. This effectively
+   doubles the number of players you can have in a game, before lag sets in.
+
++ Get 3 rockets from Roo, ammo doesnt go up until rocket is fired
++ SNG: Remove nails, make it more like a chaingun
++ Add deathmatch 3 rules (weapons stay) (this is now default)
++ in cult.bsp when you finally make it there, sometimes the
+   boss level message won't go away (usually on your 3rd life)
++ Rolling takes off too much health, give more bounce
+   NOTE: Vehicle is now much less likely to "slide" upside down, or get stuck
++ and After you kill the boss, when it tries to take you back to
+   start.bsp.. you just telefrag yourself
++ Camera gets stuck underwater
++ Check TEAMPLAY 11 crashing server
+= Invulnerability in cult, then run over duke mine = wierd shit (?? couldn't duplicate ??)
+
+Bugs fixed/Changes in 1.0e:
+
++ Remove Observer Mode debug message
++ All practise gates go to qrally01 (introduced in v1.0d, doh!)
++ Drive in reverse after run out of time
++ Client disconnecting error
+= Invulnerability then land in lava, infinite death
+= SNG + Mine Launcher bug (dual fire)
+
+Bugs fixed/Changes in 1.0d:
+
++ After second stage, time-trial disappears and takes you to "The Bowl"
++ Lowest skill level makes markers much wider, so you dont have to actually run over
+   the marker. Skill 3 gives you less starting time.
++ 40% collision damage not quite right, seems wierd to suddenly take lots off?
+   NOTE: this is now "Whiplash Damage" and takes 30% health. Drive Carefully!
+
+Bugs fixed in 1.0c:
+
++ use "coop 1" to turn off the music
+   NOTE: if you don't like the music, you can delete pak1.pak in your RALLY dir.
++ Marker spawn points create continual telefrags during multiplayer, and packet 
+overflows. Try to find a post near the marker that is safe for spawning.
++ in map 3 u fall into the lava off the 2 ramps and if u press space it replaces 
+u right back in the lava (first marker)
++ Runaway loop error in CycleWeaponCommand
++ go through cult bugs as in "QR bugs" mail folder
++ Reduce number of laps for easy difficulty level
++ Reverse goes 300kph, limit to 50
+
+Todo:
+
+- Revert sounds code to once per frame during single player
+- Put camera code back in for save/load game (in cam chase think)
+- Fall in water in racing map spawns back to start point, should goto last marker
+- Include mapcycle.cfg in next update!
+- Duplicate wheel's in single player practise
+
+- Save/Load game not working
+
+Suggestions:
+
+- Remote Admin (jaeger@cyanide.ml.org)
+- Save current vehicle between levels instead of going back to default
+- Reduce rolling damage
+- Going really fast, turn sharply, make car roll (hmm.. brings back memories..)
+
+Web Stuff:
+
