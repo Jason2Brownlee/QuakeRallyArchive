@@ -30,6 +30,7 @@ http://deathed.stomped.com/files/qrwad10.zip
 
 # qrspecs.zip
 http://impact.frag.com/files/qrspecs.zip
+http://anet-stl.com/~aclowry/mud/qrspecs.zip
 http://www.time2quake.com/filez/quakerally/qrspecs.zip
 
 # UR_promo.zip
