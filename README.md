@@ -66,12 +66,12 @@ Vulcan | [vulcan.txt](bin/maps/vulcan.txt)<br>[vulcan.zip](bin/maps/vulcan.zip)
 
 Alphabetical list of precursor and extension mods for Quake Rally in [bin/extensions/](bin/extensions/).
 
-Name | File(s)
---- | ---
-Checkered Flag: GoldCup | [GCdemo.zip](bin/extensions/GCdemo.zip)<br>[GCv1.2.zip](bin/extensions/GCv1.2.zip)<br>[CFv1.2.zip](bin/extensions/CFv1.2.zip)<br>[CFv1.3.zip](bin/extensions/CFv1.3.zip)<br>[CFPREFABS.zip](bin/extensions/CFPREFABS.zip)<br>[CFTEX.zip](bin/extensions/CFTEX.zip)<br>[CFSOURCE.zip](bin/extensions/CFSOURCE.zip)<br>[team.zip](bin/extensions/team.zip)<br>[akcar1.zip](bin/extensions/akcar1.zip)<br>[gcl02.zip](bin/extensions/gcl02.zip)<br>[PATCHv1.31.zip](bin/extensions/PATCHv1.31.zip)<br>[QRallyBotsrc.zip](bin/extensions/QRallyBotsrc.zip)<br>[QRallysrc.zip](bin/extensions/QRallysrc.zip)<br>[rallyFIX.zip](bin/extensions/rallyFIX.zip)<br>[goldcup.zip](bin/extensions/goldcup.zip)
-Quake Championship Racing | qCR.zip
-Quake Kart | [kartspec.txt](bin/extensions/kartspec.txt)
-Ultimate Rally | UR_promo.zip
+Name | Author(s) | File(s)
+--- | --- | ---
+Checkered Flag: GoldCup | Joshua Klint aka "Halo 9", Charlie Van Noland aka "Chazz", Robert de Heus aka "Koolio", "Lucid Designs Team" | [GCdemo.zip](bin/extensions/GCdemo.zip)<br>[GCv1.2.zip](bin/extensions/GCv1.2.zip)<br>[CFv1.2.zip](bin/extensions/CFv1.2.zip)<br>[CFv1.3.zip](bin/extensions/CFv1.3.zip)<br>[CFPREFABS.zip](bin/extensions/CFPREFABS.zip)<br>[CFTEX.zip](bin/extensions/CFTEX.zip)<br>[CFSOURCE.zip](bin/extensions/CFSOURCE.zip)<br>[team.zip](bin/extensions/team.zip)<br>[akcar1.zip](bin/extensions/akcar1.zip)<br>[gcl02.zip](bin/extensions/gcl02.zip)<br>[PATCHv1.31.zip](bin/extensions/PATCHv1.31.zip)<br>[QRallyBotsrc.zip](bin/extensions/QRallyBotsrc.zip)<br>[QRallysrc.zip](bin/extensions/QRallysrc.zip)<br>[rallyFIX.zip](bin/extensions/rallyFIX.zip)<br>[goldcup.zip](bin/extensions/goldcup.zip)
+Quake Championship Racing | Stephen Heijster | qCR.zip
+Quake Kart | Steve Bond aka "wedge" | [kartspec.txt](bin/extensions/kartspec.txt)
+Ultimate Rally | Ryan Feltrin aka "Ridha", "Impact Development Team" | UR_promo.zip
 
 ## How You Can Help
 
