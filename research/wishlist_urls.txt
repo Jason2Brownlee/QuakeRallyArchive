@@ -18,6 +18,13 @@ ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11beta.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11beta.zip
 ftp://ftp.stomped.com/pub/redwood/quakec/qr11beta.zip
 
+# qr12_up.zip
+ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr12_up.zip
+ftp://ftp.stomped.com/pub/redwood/quakec/qr12_up.zip
+ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr12_up.zip
+ftp://ftp.torget.se/quake/tc/qr12_up.zip
+http://impact.frag.com/files/qr12_up.zip
+
 # qrspecs.zip
 http://impact.frag.com/files/qrspecs.zip
 http://www.time2quake.com/filez/quakerally/qrspecs.zip
