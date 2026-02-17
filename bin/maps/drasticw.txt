@@ -1,0 +1,46 @@
+August 26, 1997
+================================================================
+Title                  : Drastic Whiplash
+Filename               : draswhip.bsp
+Author                 : Mark Wheeler
+Email Address          : markkram@erols.com
+Homepage:		     : www.markwheeler.com
+                          
+Description          : Quake Rally "racing" type map. Original completed
+                     : months before QR was released. Too small for
+                     : competition, but kind of fun to run around. This
+		     : doesn't have the startfinish entities. It anybody
+		     : cared I would put them in. But I don't think
+ 		     : that map is that good to warrant it.
+                      
+Software kudos       : Thred 0.9, Quake Map 2.7, MidDip 1.55, Newwad13
+                     : Paint Shop Pro 4.12, PhotoShop 4.0
+
+================================================================
+
+
+* Construction *
+
+Base                    : New level from scratch
+                          300 brushes, 120 entities
+Build time              : 1 month
+   qbsp                 : 6 minutes
+ light -extra           : 25 minutes
+ vis -level 4           : 20 minutes? 
+Installation and play   : Unzip to \quake\id1\maps or your Quake Rally maps directory
+
+
+* Copyright / Permissions *
+
+You MAY distribute this .bsp, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact and get my permission. 
+
+Thred is written and owned by Jonathan Mavor (ah289@freenet.carleton.ca).
+The Thred webpage can be found at http://www.visi.com/~jlowell/thred
+and is maintained by Jim Lowell (jlowell@visi.com).
+* Where to get this bsp *
+
+FTP sites:ftp.cdrom.com/pub/quake/levels
+http://www.markwheeler.com

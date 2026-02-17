@@ -1,0 +1,132 @@
+=============================================================================
+Title                : Urban Driveby
+Filename             : udriveby.bsp
+Version              : 1.0 [dated:7/31/97]
+
+Description          : This is a new track for QuakeRally.
+                       The city textures are so overused it really
+                       isn't funny. It's been designed with netplay
+                       and 486's in mind, but the ammo in the level
+                       is sparse.. watch your aim. No RL either, due
+                       to a bug in QuakeRally where the game doesn't
+                       accecelrate on certain angled surfaces and you
+                       keep a constant speed.. visicous cycle with the
+                       RL. Everyone that has played this map though it
+                       was uber-good, so something has to be right.
+
+                       Note: this map hasn't really been tested for
+                       netplay. I'm probably gonna either make this
+                       a pure racing map or fix it up, but the map
+                       speed is cool for netplay [r_speeds below 200,
+                       there's a sight.
+
+Author               : Steven Towle aka Dipstick
+Email Address        : stevet3@ix.netcom.com | stevet@ftp.cdrom.com
+
+Misc. Author Info    : Someone too damn young for his own good.
+                       Co-author [with about 20 other people] of
+                       Memento Mori 2. Also a level designer on
+                       the ManyWorlds project. Yeah, this is my
+                       first publically released map for Quake, tough
+                       crumbs.
+
+Additional help      : hmm.. none with the map...
+                       for QuakeRally.. impact.frag.com/rally/ might
+                       be a good place to go.
+
+Credits to           : Everyone at Impact, duh they made QuakeRally
+                       Everyone at id, duh they made Quake
+                       Everyone in EFNet #quakerally for the comments/help.
+                       PsHLoRtZ and TRP for getting me off my collective ass.
+                       Yahn Bernier for making BSP, the uber-cool map editor.
+                       My parents for being a wee bit supportaive [thanks for
+                       the P2! My 486 broke. ;]
+                       Fill in your own name here for any reason
+
+                       
+=============================================================================
+
+-=[ Play Information ]=-
+
+Game                    : QuakeRally [requires reg. quake]
+Maps                    : 1
+Single                  : Yes
+Cooperative             : I don't think so homeslice 
+Deathmatch              : Yes, 8 DM-starts to race
+Difficulty Settings     : Pfft
+New Sounds              : No
+New Graphics            : No [unless qrally.wad counts]
+Demos Replaced          : Yes [udriveby.dem included]
+
+
+-=[ Construction ]=-
+
+Base                    : from (chicken) scratch 
+
+Build Time              : 3 days, about 20 hours total working
+                          qbsp            :  2 minutes
+                          arghlite -extra : 20 minutes
+                          rvis -level 4   : 10 seconds (!)
+                          This is what a P2-266 gets you. ;)
+
+Editors used            : BSP .82
+                          MS-DOS Edit
+                          Can I say BSP again? It rocks.
+
+Known Bugs              : None regarding the levels. Contact Impact
+                          for QuakeRally bugs.
+=============================================================================
+
+-=[ Copyright / Permissions / Distribution Information ]=-
+
+* Copyrights *
+
+ Urban Driveby is Copyright (c) 1997 by Steve Towle. 
+ QuakeRally is Copyright (c) 1997 by Impact Devolpment.
+Quake is Copyright (c) 1996 by id Software Inc.
+The Quake logo and likenesses are trademarks of id Software Inc.
+All textures contained in the levels whose names do not start with "SUMA"
+or "WEND" are owned by id Software. 
+ All textures beginning with "SUMA" or "WEND" were created/modified
+by their respective artists at Impact. I'd like to state that the copyright
+of the id textures still lies at id Software and credit should go to
+Kevin Cloud and Adrian Carmack!
+
+* If you want to put Urban Driveby/QuakeRally on a CD *
+
+ You are *NOT* allowed to commercially exploit this map, e.g. put it on a
+CD that is sold for money without my explicit handwritten(!) permission!
+
+ Don't even think about mailing me something like "we want to include your
+work on our CD, if you don't reply until a certain date we will take this as
+your permission"!
+Don't laugh, I've seen this before...
+
+ Sorry if the above sounds a bit harsh, but I don't want any level-author to
+be screwed by CD publishers like Actura again. Most companies are fair, and
+if you are one of these companies don't hesitate to e-mail me for further
+distribution information. Don't forget to mail Impact too, as you're in
+violation of their copyright too if you illegaly distribute this CD.
+
+
+* If you want to use any of the recources for your own works *
+
+ Authors may NOT use these levels as a base to build additional levels. Fin.
+
+
+* Distribution *
+
+ You are welcome to freely distribute Urban Driveby
+ or QuakeRally on a non-commercial base,
+provided you do not change anything and leave the ZIP intact.
+That includes the Internet, FIDO etc. - every media that can be accessed
+without paying for it.
+
+I'm sorry Matthias, but I had to rip your copyright statement. I'm
+a lazy fool. Good luck with your ritual/customs mess. =)
+
+
+-=[ Where to get this PAK ]=-
+
+ftp.cdrom.com and mirror sites.
+

@@ -29,6 +29,35 @@ Release Date | File | Description
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not corroborate the date of release yet.
 
+## Quake Rally Maps
+
+Alphabetical list of Quake Rally maps in [bin/maps/](bin/maps/) including map name and file link.
+
+Map Name | File(s)
+--- | ---
+Blue Lake Mountain | [blm.txt](bin/maps/blm.txt)<br>[blm.zip](bin/maps/blm.zip)
+Deathmatch City | [dmcity.txt](bin/maps/dmcity.txt)<br>[dmcity.zip](bin/maps/dmcity.zip)
+DeathRace - Figure 8 | [dr1-fig8.txt](bin/maps/dr1-fig8.txt)<br>[dr1-fig8.zip](bin/maps/dr1-fig8.zip)
+Drastic Rally | [drasticr.txt](bin/maps/drasticr.txt)<br>[drasticr.zip](bin/maps/drasticr.zip)
+Drastic Whiplash | [drasticw.txt](bin/maps/drasticw.txt)<br>[drasticw.zip](bin/maps/drasticw.zip)
+A Drive in the Park | [drive.txt](bin/maps/drive.txt)<br>[drive.zip](bin/maps/drive.zip)
+Flip | [flip.txt](bin/maps/flip.txt)<br>[flip.zip](bin/maps/flip.zip)
+Macbeth's Backyard | [macbeth.txt](bin/maps/macbeth.txt)<br>[macbeth.zip](bin/maps/macbeth.zip)
+Nightmare Ridge | [nmridge.txt](bin/maps/nmridge.txt)<br>[nmridge.zip](bin/maps/nmridge.zip)
+8 Of Fun | [peejqr1.txt](bin/maps/peejqr1.txt)<br>[peejqr1.zip](bin/maps/peejqr1.zip)
+Tubular Cataclysm | [peejqr2.txt](bin/maps/peejqr2.txt)<br>[peejqr2.zip](bin/maps/peejqr2.zip)
+Circuit Racing! | [qrcircuit.txt](bin/maps/qrcircuit.txt)<br>[qrcircuit.zip](bin/maps/qrcircuit.zip)
+Stunt Rally | [qrdaf01.txt](bin/maps/qrdaf01.txt)<br>[qrdaf01.zip](bin/maps/qrdaf01.zip)
+RaceCity (visd) | [racecity_visd.txt](bin/maps/racecity_visd.txt)<br>[racecity_visd.zip](bin/maps/racecity_visd.zip)
+RaceCity | [racecity.txt](bin/maps/racecity.txt)<br>[racecity.zip](bin/maps/racecity.zip)
+River Race | [rivrace.txt](bin/maps/rivrace.txt)<br>[rivrace.zip](bin/maps/rivrace.zip)
+River Race 2 | [rivrace2.txt](bin/maps/rivrace2.txt)<br>[rivrace2.zip](bin/maps/rivrace2.zip)
+roadkill1 | [roadkill1.txt](bin/maps/roadkill1.txt)<br>[roadkill1.zip](bin/maps/roadkill1.zip)
+Roadrunner | [roadrun.txt](bin/maps/roadrun.txt)<br>[roadrun.zip](bin/maps/roadrun.zip)
+Sub-Aqua | [sub-aqua.txt](bin/maps/sub-aqua.txt)<br>[sub-aqua.zip](bin/maps/sub-aqua.zip)
+Urban Driveby | [udriveby.txt](bin/maps/udriveby.txt)<br>[udriveby.zip](bin/maps/udriveby.zip)
+Vulcan | [vulcan.txt](bin/maps/vulcan.txt)<br>[vulcan.zip](bin/maps/vulcan.zip)
+
 ## How You Can Help
 
 Maybe you can help to make this archive more complete.

@@ -1,0 +1,99 @@
+================================================================
+Title                   : Stunt Rally
+Filename                : qrdaf01.bsp
+Release Date            : Floated around since August 1997,
+			  officially released November 17, 1997
+
+Author                  : Chris Sparks (DaFragsta)
+			  3D Gaming Spooge
+URL                     : http://www.brutality.com/spooge/
+Email Addresses         : dafragsta@mindless.com
+
+Description             : This is it! This is what you got Quake
+			  Rally for! Lots of jumps, places to hide,
+			  and plenty of weapons and ammo. The R_SPEEDS
+			  might be a little rough, but this map is still
+			  pretty enjoyable.
+
+			  SIDE NOTE: This map probably would have never made
+			  it to the 'net, if it had not been for one of the
+			  FRAG goers who saw the map, and submitted it to the
+			  Pit Stop. I personally was reluctant to release it
+			  because it did not recieve the ravest of reviews
+			  when I sent it to Summaleth of the Impact Develop-
+			  ment team. He, the members of my LAN gaming group
+			  SkyNet, and a few of the attendees of the FRAG, 
+			  were the only ones to play it.. until now. In fact,
+			  even when it was being distributed at the FRAG, it 
+			  was still in the working filename of finlbeta.bsp. 
+			  Someone renamed it hotweel.bsp and mailed it off to
+ 			  The Pitstop. By chance, I guess, I stumbled upon my
+			  map being mentioned in the PitStop message board by
+			  one of the FRAG attendees. I probably wouldn't have
+			  released the map... ever, mostly due to the fact
+			  that other level makers might point and say look at
+			  this llama! He really sucks!
+
+			  I have since fired up WorldCraft and I am currently
+			  working on a new Deathmatch level for regular Quake.
+			  It looks pretty impressive, even with my biased
+			  view! I tried to use the same amount of detail that
+			  I did with Stunt Rally, and I managed to keep the
+			  R_SPEEDs well within acceptable boundries.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Primarily a deathmatch track, but it's a blast
+			  to see how much air you can catch!
+Cooperative             : No
+Deathmatch              : 8 deathmatch starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : A few new mips!
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WorldCraft 1.3, MipDip, Photoshop, Paint
+			  Shop Pro.
+Known Bugs              : This is my very first map as far as the Quake
+			  engine goes. There are bound to be some bugs
+                          discovered. If ya find any, email me! Note that
+			  I am aware of the seemingly meaningless finish
+			  line by the figure 8. The figure 8 itself is my
+			  attempt to build around it! =)
+
+Build Time              : A long damn time! (40+ hours)
+
+Texture Wad used        : qrally.wad (by sumaleth and wendigo)
+          		  dafrag.wad (by me!)
+
+Compile machine         : Intel Pentium 166MHz/32MB EDO RAm
+QBSP256C Time           : I just let it run through while I slept!
+Light (-extra) Time     : I just let it run through while I slept!
+VIS (-level 4) Time     : I just let it run through while I slept! =)
+			  It didn't take any longer than 12 hours.. 
+
+Brushes                 : Too many.
+Entities                : Excessive
+Models                  : With nice curves can send me an email with
+			  their email and phone #. ;)
+
+* Where to get this level *
+
+The Pitstop: http://pitstop.warzone.com/
+CDROM.COM ftp://ftp.cdrom.com/pub/idgames2/
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Chris Sparks.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Chris Sparks.

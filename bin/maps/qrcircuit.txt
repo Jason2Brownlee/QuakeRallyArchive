@@ -1,0 +1,72 @@
+================================================================
+Title                   : Circuit Racing!
+Filename                : circuit.bsp
+Release Date            : July 13th, 1997
+
+Author                  : Matthew "DarkBrother" Piggott
+Email Addresses         : darkbrother@geocities.com
+
+Description             : Short Circuit track for QuakeRally.  When racing with friends push
+			  them into the water in the middle. :)
+                          Pure Racing Track
+================================================================
+
+Play Information
+----------------
+
+   Single Player           : Drive around the track! Whee!
+   Cooperative             : No
+   Deathmatch              : 4 deathmatch starts
+   Difficulty Settings     : No
+   New Sounds              : No
+   New Graphics            : No
+   New Music               : No
+   Demos Replaced          : None
+   Fastest Lap Time	   : 4.7 seconds by me!
+
+
+Construction
+------------
+   
+   Base                    : New level from scratch
+   Editor(s) used          : Worldcraft
+   Known Bugs              : None
+   Build Time              : About 2 hours (Some bizarre probs I've never had or seen before...)
+
+
+Compile Info
+------------
+
+   QBSP -tjunc -transsky -transwater
+   VIS  -level 4
+   Light -extra
+
+   TreeQBSP:  15.050 seconds 
+   ArghLight: 7 seconds
+   LeetVIS:   201.0 seconds
+   ReMipDLX:  2.0 seconds
+
+   Compile Machine:  P200 w/ 40 mb of RAM, and a 12 mb Voodoo2 (the last one is just to make 
+you unluckly bastards jealous).
+
+   Brushes             \
+   Entities             |-  See Circuit QBSP.log included in this zip
+   Models              /
+
+   visdata:   3081
+
+
+Where to get this level
+-----------------------
+
+  Well damn, if you are looking at this .txt you bloody well know where to get it...
+
+Copyright / Permissions
+-----------------------
+
+   Circuit Racing! is the intellectual Property of Matthew Piggott
+   This level may be electronically distributed only at no charge to
+   the recipient, and may not be modified in any way, without my explicit,
+   written permission.  (Obviously Walnut Creek has my permission...)
+   
+   **This text file unmodified _must_ be included with the level.**

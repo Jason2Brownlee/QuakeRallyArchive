@@ -1,0 +1,61 @@
+Released: 30th Oct 1997 - Beta Release
+
+================================================================                        
+Title                   : Tubular Cataclysm
+BSP Name                : PEEJQR2.BSP
+Author                  : Paul "PeeJ" James
+Email Address           : paul.james@uea.ac.uk
+Home Page               : http://www.uea.ac.uk/~x9730796/
+Web Site:	  	: http://quake.perfect.co.uk/dmp/
+
+Misc. Author Info       : I run the DMP at Quake Perfect. check it out if you
+			  want deathmatch maps.
+
+Description             : Quake Rally 2097 track, twisting tubes and an open
+			  area with a big jump.
+
+Additional Thanks to    : id for Doom, Quake, MAP, QBSP & QuakeC
+			  Impact for the best QC mod, QRally.
+			  Copy for inventing QR2097.
+
+Additional Notes        :
+			  
+================================================================
+
+* Play Information *
+
+Race Type	        : Pure Racing
+Average Lap Time	: 32-38 secs
+Number Of Laps		: 6
+Difficulty Settings     : No
+New Sounds              : None
+New 3D Models           : Nowt
+New Demos               : Nothing
+New QuakeC              : Use QRally
+
+* MAP Information *
+
+Brush Number            : 2887 (!!)
+Entity Number           : 77
+Texture Number          : 11
+Extra LIGHT		: Yes
+VIS level 4		: Yes
+Transparent VIS		: No
+Average r_speeds	: 250
+Maximum r_speeds	: 550
+
+* Construction *
+
+Base                    : New level from scratch
+Construction Time       : Dunno
+Build Time              : 3 mins (p200+ 32meg)
+Editors used            : WorldCraft
+Known Bugs              :
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels. Please give credit
+to author if used to create other levels from this one, and it would be nice if
+you could contact me first (so I can get a copy).
+
+Please distribute this text file with the level. Thanks.

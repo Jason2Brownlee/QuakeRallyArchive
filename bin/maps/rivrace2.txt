@@ -1,0 +1,93 @@
+================================================================
+Title                   : River Race 2
+Filename                : rivrace2.bsp
+Release Date            : October 19th 1997
+
+Author                  : Peter Lomax 
+                          aka PCL
+                          aka Hawkmoon
+Email Address           : pcl@provider.co.uk (You can email me y`know)
+Web Address             : http://www.provider.co.uk/users/pcl/hawkmoon.html
+                          (the place for my map news)
+
+Description             : Pure racing
+                          A much bigger version of River Race (also increased difficulty)
+                          Lots of twists,turns,big jumps and *water*                          
+                          Jolly good fun
+                          (If anyone wants it converting to racingdm, let me know)
+                         
+Credits                 : id software for the "Neverending Game" 
+                          Impact development for "Patch of the Year"
+                          Yahn Bernier for "Best Map Making Tool"
+
+Best Lap Time           : 33 seconds (ACME-Ewan - one day I`ll beat him :-) 
+                          (Best lap time for River Race : 18.9 seconds  ACME-Ewan)
+================================================================
+
+* Play Information *
+
+***This map only works with the Quake Rally patch from Impact Developments***
+
+Type                    : Racing
+Single Player           : for practice and time attack
+Bot Markers             : No (Maybe later if the bot code is resolved)
+Cooperative             : No
+Deathmatch              : 8 "deathmatch" starts (best as 2 to 6) for multiplay race
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+Put Rivrace2.bsp in Rally/Maps directory
+Start QRally using the launcher
+(you can add +map rivrace2 to the extra settings to jump straight to this track)
+When the demo starts bring down the console and type map rivrace2 
+
+* Construction *
+
+Base                    : River Race (the original and still a hoot)
+Editor(s) used          : BSP v0.82b (the best of the best)
+Known Bugs              : none - if you find any email me
+Build Time              : Too long
+                          
+
+Texture Wad used        : Selected id textures
+                          qrally.wad
+                          liquids.wad By Tom Cleghorn aka Murgatroyd   
+
+Compile machine         : Pentium 200MMX/40MB
+QBSP Time               : 47.0 seconds (used Transparent Water QBSP Version 1.65
+                                        by Ken Alverson (KenA@TSO.Cin.IX.Net)
+Light (-extra) Time     : 382.0 seconds
+VIS (-level 4) Time     : 340.0 seconds - vis`d for GlQuake but ok for DosQuake and WinQuake
+
+Entities                : 150 
+
+================================================================
+
+* Where to get this level *
+
+If you can read this you have already found a place
+or http://www.provider.co.uk/users/pcl/hawkmoon.html following the QRally link
+or E-Mail me at pcl@provider.co.uk and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Peter Lomax.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file is included.
+If you wish to use this map in a level pak, you must first obtain my permission.  
+If you wish to distribute this level commercially (including, but not
+limited to, magazine cover CD`s) you must first obtain my permission.
+Also bear in mind that the textures used belong to id, Impact Development and Tom Cleghorn
+
+Special thanks to:
+Angie,Michael and Mat for the LAN testing
+ACME-Ewan (chief map tester),Jagged (visit "the Pitstop") and Bozer (QRally map maker)
+ACME UK clan for letting me play CTF sometimes
+Cameron Spencer for featuring River Race as "Track of the Week" and improvement suggestions
+All the kind reviews of River Race (too many to list :-)
+Heres hoping River Race 2 works for Neil(Lingo),Richard and mr_small   
+Mike Marechal - fellow map maker on whose text file this one is based
+

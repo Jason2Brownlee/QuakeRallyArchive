@@ -1,0 +1,84 @@
+
+================================================================
+DeathRace - Figure 8
+================================================================
+Title                   : DeathRace - Figure 8
+Filename                : dr1-fig8.bsp
+Release Date            : July 28, 1997
+
+Author                  : Kevin Anderson aka Dachande-SoD && RaPToR-SoD
+URL                     : http://www.dunraven.com/~kevin
+Email Addresses         : rice80sf@ekx.infi.net
+
+
+Description             : QuakeRally Track.
+                          Racing with Deathmatch implemented.  This map,
+                          #1 in my DeathRace series, is a small figure 8
+                          with obstacles to avoid and weapons spread through-
+                          out.  To win, it will take both speed and good aim!
+
+                          If you wonder why there are soo many checkpoints,
+                          it's to keep people on track.  Think - having only 2
+                          checkpoints results in the person chopping 75% of
+                          the track off...
+                           
+Other                   : Built and tested on a Packard Bell Pentium 60.
+			  Ran extremely smooth, if you have trouble and a
+			  faster computer, it's not my map, it's your 
+			  computer.  heh.  Your probably laughing. 
+			  
+
+Best Lap Time           : 8.0 seconds (dachande)
+
+Credits                 : Impact for the BEST Quake mod ever,
+                              ******QUAKERALLY******
+                          and for Id software, for Quake.
+                          Ben Morris for Worldcraft.
+			  
+================================================================
+
+* Play Information *
+
+Single Player           : Practice makes perfect...
+Cooperative             : Guess you could practice with two people...
+Deathmatch              : 8 deathmatch starts!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.5
+Known Bugs              : some brushes don't connect right (?)
+Build Time              : About 24 hours so far
+
+Texture Wad used        : quaketex.wad (by id)
+                          qrally.wad   (by sumaleth)
+
+Compile machine         : Intel Pentium 60/24mb RAM (Don't laugh)
+QBSP256C Time           : 4 minutes, 29 seconds 
+Light (-extra) Time     : 225.0 seconds
+VIS (-level 4) Time     : 888.0 seconds
+
+Brushes                 : 51
+Entities                : 40
+
+
+* Where to get this level *
+
+ftp.cdrom.com
+my webpage - www.dunraven.com/~kevin
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Kevin Anderson.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may be distributed on CD-ROM ONLY with prior consent of the author,
+Kevin Anderson.  Mail me first before you decide to include my work on your
+CD...  it's only fair!

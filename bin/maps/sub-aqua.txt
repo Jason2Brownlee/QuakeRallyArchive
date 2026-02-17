@@ -1,0 +1,89 @@
+* WARNING * This map is designed for QUAKE RALLY.
+            You must have QUAKE RALLY to get any fun from this map.
+
+================================================================
+Title                   : Sub-Aqua
+Filename                : sub-aqua.bsp
+
+Author                  : Ben "Krash" Ackland
+Email Addresses         : krash@hunterlink.net.au
+                          UIN: 3476771
+                          Bug reports, tips, etc. are most welcome.
+
+Description             : This map is centered around a large, underground
+                          river. There are many crossover tracks, and a
+                          new implementation of the jump entities to
+                          propel your car to the next level. The track is
+                          mostly natural tunnels, with some man-made drains.
+                          There is one huge jump, which requires you to get
+                          around the previous corner at a high speed in order
+                          to make it.
+                          I recommend binding a key to 'kill', because if you
+                          happen to stuff up a jump and survive, it's a
+                          REALLY long way back. It's faster and easier to
+                          suicide in these cases.
+
+Best Lap Time           : 1 minute, 5 seconds (Standing Start).
+                          Set by me.
+                          anyone who can manage under 1:03,
+                          PLEASE SEND ME A DEMO!
+
+Special thanks to       : The Impact Team for QRally
+                          Ben Morris for worldcrdaft
+                          id for Quake
+================================================================
+
+* Play Information *
+
+Single Player           : For practice/testing.
+Cooperative             : No
+Deathmatch              : What is the point otherwise?
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.5
+Known Bugs              : Quite frequently, the jumps will either work too
+                          well or not well enough. I have tried to compensate
+                          but bugs still occur. This has to do with the code,
+                          so talk to Ridah if you have trouble.
+Build Time              : On and off for 4-5 weeks or so (took a break for q2)
+Texture Wad used        : quake101.wad (by id)
+                          qrally.wad   (by Impact)
+
+* Compilation *
+
+Compile Machine         : P166 w/32Mb RAM
+Bsp Time                : 1566 seconds    (00:26:06)
+Light -extra Time       : 2446 seconds   (00:40:46)
+Vis -level 4 Time       : 100337 seconds (27:52:17)
+Total Compile time      : 103137 seconds (28:38:57)
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Ben Ackland.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Ben Ackland, as well as a hefty bribe. =]
+
+ /-------------------------------------------\
+ | /-\      /----------\                     |
+ | | |    /     -------/                     |
+ | | |  /   / \   \                          |
+ | | |/   /  |  \   \    KRASH the SYSTEM    |
+ | |    <  --+-- >   >                       |
+ | | |\   \  |  /   /                        |
+ | | |  \   \ /   /  krash@hunterlink.net.au |
+ | | |    \     /          UIN: 3476771      |
+ | \-/      \-/                              |
+ \-------------------------------------------/
+                                     
+

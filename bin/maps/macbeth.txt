@@ -1,0 +1,59 @@
+                    =============================
+			    BoBo Presents
+		    =============================
+
+			  Macbeth's Backyard
+			   Quake Rally Map
+
+   ================================================================
+
+	Filename                : macbeth.bsp
+	Release Date            : November 8th, 1997
+	Author                  : Karl Waskiewicz
+
+	Email Address           : friendofshawn@hotmail.com
+
+
+   Possibly the most difficult Quake Rally Map to complete in time
+   trial.  Lots of obstacles to avoid, and very little time to do so.
+
+                        
+   I think this would be a good moment to say how much I *despise*
+   using Worldcraft to make maps.  BSP rules...It was always way
+   more advanced and easier to use than whatever else.
+
+    *Update: November 9: Taking shortcuts is much harder and riskier
+                         now...don't even try it at more difficult
+			 skill levels.
+   
+   When playing this map, you can expect to get a lap time of between
+   50-65 seconds.
+
+   ================================================================
+
+
+   Map Info summary:
+    -Racing with weapons
+    -All weapons included somewhere in map
+    -5 lap limit
+    -Successful Wind push incorporation
+    -910 brushes, 650 entities
+    -4 deathmatch starts
+
+   ---
+
+   Level is made from scratch using BSP 0.86b (Better than all the rest
+   combined).  No bugs are known of.
+
+	qbsp:  10 minutes 36 seconds
+	light: About 40 minutes
+	vis:   7 1/2 Hours
+
+   Qrally.wad as well as the standard Quake texture set was used.
+
+   Machine compiled on was a P133/32m
+
+   ---
+
+   If you choose to put this map on a cd and call it your own,
+   I don't want to know.

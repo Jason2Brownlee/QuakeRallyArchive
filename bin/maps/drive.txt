@@ -1,0 +1,89 @@
+Thursday, July 24, 1997
+================================================================
+Title                   : A Drive in the Park
+Filename                : Drive.bsp
+Author                  : Paul Healey
+Author Email Address    : paulhealey@lineone.net
+Author's Other Levels   :-Quess (Quake Battle Chess)
+                          <http://impact.frag.com/quess/>
+                          Lava Pit
+                          Caved In
+                          High in the Sky
+
+                          -Quake Deathmatch
+                          Hells Base
+                          The Slime Pit
+                          ZabbaDeath '97
+                          Techno Hell
+
+                          -Quake Rally
+                          <http://impact.frag.com/rally/>
+                          Techno Rally
+
+Description          : For 8 player Qrally deathmatch. Simple design, its not
+                       actually a park. More like a forest. Also this was
+                       made for QRally and not converted like Techno Rally.
+
+                       The level has been BSPed with the transparent water
+                       QBSP so all you GLQuake users have transparent water.                       Also that special mirror texture has been used.
+                       NOTE: I've tested it GLQuake and it ran very slow.
+                       (I was using a 3Dfx card)
+
+Additional Credits to: Barry and Jay (my brother) for testing.
+
+                       Ridah, Sumaleth etc for Quake Rally.
+
+                       Armin Rigo for QuArk.
+
+                       id Software, Inc., of course, for being
+                       so *damn* cool.
+================================================================
+
+* Play Information *
+Single Player           : Only one start for inspection.
+Cooperative             : No
+Deathmatch              : YES--8. (Has 8 starts)
+Capture the Flag        : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch.
+Editor(s) used          : QuArK
+Known Bugs              : Don't think so.
+Build Time              : 5 hours.
+Texture Wad used        : Quark.Wad
+                          Qrally.Wad
+                          And the Pavement texture from QRDM02
+
+Compile machine         : P 200 w/32 megs RAM
+QBSP Time               : 19.0 sec
+Light Time (-extra)     : ? (forgot to check)
+VIS (-level 4) Time     : 1015.0 sec
+
+Brushes                 : 63
+Entities                : 128 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+The original zipfile and its contents MUST remain UNALTERED.
+
+Permission is granted to download the bsp through non-commercial
+QuakeWorld servers.
+
+Commercial servers may NOT use this level.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems
+and in its original zipfile format--UNALTERED bsp and textfile included.
+You are NOT authorized to put this BSP on any commercial CD or diskette
+without my permission.  Also note that id Software, Inc. has
+certain restrictions on the distribution of derivative levels.  If you
+go ahead and ignore these warnings, don't be surprised if a lawsuit
+comes your way...

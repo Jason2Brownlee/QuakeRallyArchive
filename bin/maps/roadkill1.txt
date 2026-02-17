@@ -1,0 +1,42 @@
+================================================================
+Title                   : roadkill1
+Filename                : roadkill1.zip
+Date of Release         : August 16, 1997
+Author                  : Dave Wimmers - handle = "Byte Me"
+Email Address           : dwimmers@siscom.net
+
+Description             : Combined racing / dm level for Quake Rally.  Some
+                          tough areas on the course where your buddies will
+                          catch you if you screw up!
+
+
+Other .bsps by Author   : djw1, djw2
+
+Additional Credits to   : id software and the makers of Quake Rally and
+                          Quest.
+
+================================================================
+
+* Play Information *
+Game                    : Quake Rally
+Single Player           : No
+Cooperative 2-4 Player  : No
+Racing                  : Yes, with weapons
+New Textures            : No
+Exit                    : No
+
+* Construction * 
+
+Editor(s) used          : Quest version 1.1
+
+
+License:    This .bsp file is not to be sold or re-used for commercial purposes
+            without the permission of the author.  It may be freely distributed
+            for non-commerical use as long as this .txt file is included.
+
+Disclaimer: If you can prove that this .bsp causes harm to you, your
+            computer or the rest of the world, more power to ya, but
+            don't bother me with that, other than to send bug reports
+            to my e-mail.
+
+Other: Enjoy!

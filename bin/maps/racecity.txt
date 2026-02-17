@@ -1,0 +1,73 @@
+================================================================
+Title                   : RaceCity
+Filename                : racecity.bsp
+Release Date            : August 3rd, 1997
+
+Author                  : Stuart Stephen
+URL                     : http://www.athenenet.co.uk/homepages/stephens/frameset.html
+                        : http://www.freeyellow.com/members/stephens/
+                        : http://www.geocities.com/MotorCity/Downs/4785
+Email Address           : marechal@cryogen.com
+
+Description             : A track for Quake Rally, which involves three track 
+                          surfaces *(Mud, Grass and Asphalt)*, A nice city - with
+                          a swimming pool! Tunnels, Some Jumps and the dreaded water!
+                          Two Kangaroo Spawn Spots for extra fun!
+                        
+Credits                 : id software for such a cool game and the Impact
+                          development for the best quake mod ever. Also thanks
+                          to My bro for losing in the network games. Oh and also
+                          to those people who produced WorldCraft.
+
+Best Lap Time           : 23.4 seconds (Stuart Stephen - ME!!)
+================================================================
+
+* Play Information *
+
+Type                    : Racing Deathmatch or Straight Racing
+Single Player           : Time attack!
+Bot Markers             : No - Not as yet.
+Cooperative             : No - Can you?
+Deathmatch              : 16 deathmatch starts (For good measure)
+Difficulty Settings     : Why?
+New Sounds              : Not any
+New Graphics            : Yeah - Buildings and the water texture
+New Music               : None
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : New level from my mysterious head
+Editor(s) used          : Worldcraft 1.1a
+Known Bugs              : None that I know of - A few textures unaligned, but you 
+                          shouldn't be racing there!
+Build Time              : Couple of days!
+
+Texture Wad used        : textures.wad (by id)
+                          qrally.wad   (by sumaleth)
+                          Lunar Base and Fragtwn.wad (Wendigo and Some other Bloke)
+
+Compile machine         : IBM Pentium 166+/16MB 
+QBSP Time               : Ages
+Light (-extra) Time     : Even longer!
+VIS (-level 4) Time     : Got occupant bollocks - so didn't do it! Runs Smooth enough
+                          anyway!
+
+Solids			: 315
+Faces			: 1848
+Point Entities          : 351
+Solid Entities		: 1
+
+* Where to get this level *
+
+http://insanequake.ml.org/server/files/nmridge.zip
+or E-Mail me at marechal@cryogen.com and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Stuart Stephen.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file
+is included. If you wish to distribute this level comercially
+you must first obtain the permission of Stuart Stephen.
+

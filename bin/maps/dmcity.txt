@@ -1,0 +1,47 @@
+================================================================
+Title                   : Deathmatch City
+Filename                : dmcity.bsp
+Release Date            : July 28th, 1997
+
+Author                  : Frank Decher aka FNS
+URL                     : http://www.uni-mainz.de/~dechf000
+Email Addresses         : dechf000@goofy.zdv.uni-mainz.de
+
+Description             : My first Deathmatch Level for Quake Rally
+
+Special thanks to	: The QRally Team for QRally
+			  Ben Morris for worldcraft
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : 8 deathmatch starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.1a (Shareware)
+Known Bugs              : None
+Build Time              : About 4 days
+
+Texture Wad used        : qrally.wad   (by sumaleth)
+
+Compile machine         : Intel Pentium 120 - 48mb RAM
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Frank Decher.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Frank Decher.

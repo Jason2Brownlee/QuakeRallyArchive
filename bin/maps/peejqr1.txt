@@ -1,0 +1,62 @@
+Released: 1st Nov 1997 - 1st Release
+
+================================================================                        
+Title                   : 8 Of Fun
+BSP Name                : PEEJQR1.BSP
+Author                  : Paul "PeeJ" James
+Email Address           : paul.james@uea.ac.uk
+Home Page               : http://www.uea.ac.uk/~x9730796/
+Web Site		: http://quake.perfect.co.uk/dmp/
+
+Misc. Author Info       :
+
+Description             : Figure of eight Quake Rally track, designed for DM
+			  racing, with GUNS!!
+
+Additional Thanks to    : id for Doom, Quake, MAP, QBSP & QuakeC
+			  Impact for the best QC mod, QRally.
+
+Additional Notes        : This is my first QRally track, that is why it sucks a
+			  bit, it was originally made to test out various QRally
+			  stuff.
+			  
+================================================================
+
+* Play Information *
+
+Race Type               : Race with guns
+Average Lap Time	: 17-20 secs
+Number Of Laps		: 6
+Difficulty Settings     : No
+New Sounds              : None
+New 3D Models           : Nowt
+New Demos               : Nothing
+New QuakeC              : Use QRally
+
+* MAP Information *
+
+Brush Number            : 171
+Entity Number           : 50
+Texture Number          : 8
+Extra LIGHT		: Yes
+VIS level 4		: Yes
+Transparent VIS		: No
+Average r_speeds	: 300
+Maximum r_speeds	: 520
+
+* Construction *
+
+Base                    : New level from scratch
+Construction Time       : Dunno
+Build Time              : 3 mins (p200+ 32meg)
+Editors used            : WorldCraft
+Other Programs		: ArghLite, LeetVis
+Known Bugs              :
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels. Please give credit
+to author if used to create other levels from this one, and it would be nice if
+you could contact me first (so I can get a copy).
+
+Please distribute this text file with the level. Thanks.

@@ -1,0 +1,59 @@
+Drastic Rally - August 26, 1997
+================================================================
+Title                   : Drastic Rally
+Filename                : drasticr.bsp
+Author                  : Mark Wheeler
+Email Address           : markkram@erols.com
+Homepage                : www.markwheeler.com              
+Description             : Quake Rally "racing_dm"
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes. 
+Deathmatch              : Yes! 8 starts.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Supplied          : No.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Thred 0.9
+Known Bugs              : hopefully none
+Build Time              : 2 weeks
+
+Texture Wad used        : markswad
+
+Compile machine         : p120 / 64MB
+QBSP Time               : 7 mins
+Light (-extra) Time     : 55 mins
+VIS (-level 4) Time     : 25 mins
+
+* How to use this map (like you don't know this) *
+
+- Copy "drasticr.bsp"  to "id1\maps\drasticr.bsp" (create "maps" 
+  if necessary).
+- Run Quake with "-game rally" command line.
+- Bring up the console 
+- Type "map drasticr" (without the quotes) from the console.
+
+* Copyright / Permissions *
+
+
+drasticr.bsp may only be distributed provided this text file remains intact.
+
+Standard disclaimer: I will not be held responsible for any damage to your 
+hardware or software caused by using these files.
+
+Under no circumstances shall this level be sold by others in a Level Bundle software
+package without my express permission.
+
+Under no circumstances shall this level be included with any software to be sold without
+my express permission.
+
+Drastic Rally is copyright Mark Wheeler
+-------------

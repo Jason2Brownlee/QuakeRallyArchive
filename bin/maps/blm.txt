@@ -1,0 +1,64 @@
+================================================================
+Title                   : Blue Lake Mountain
+Filename                : blm.bsp
+
+Author                  : Ben "Krash" Ackland
+Email Addresses         : krash@hunterlink.net.au
+                          Bug reports, tips, etc. are most welcome.
+
+Description             : A map in which you race around the inside
+                          of an extinct volcano. The volcano has
+                          developed a cachement of water in its caldera,
+                          hence the name. You will be racing through
+                          underground rivers, twisting tunnels, and a
+                          limestone cave. There are several places where
+                          the map splits, and some difficult jumps.
+                          I also have a makeshift pitstop.
+                          Good Luck!
+
+Best Lap Time           : 47.1 seconds. Set by me.
+                          anyone who can manage under 46 seconds,
+                          PLEASE SEND ME A DEMO!
+
+Special thanks to       : The Impact Team for QRally
+                          Ben Morris for worldcrdaft
+                          id for Quake
+================================================================
+
+* Play Information *
+
+Single Player           : For practice.
+Cooperative             : Nup
+Deathmatch              : What else???
+Difficulty Settings     : Nup
+New Sounds              : Nup
+New Graphics            : Nup
+New Music               : Nup
+Demos Replaced          : Nup
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.5
+Known Bugs              : Zilch
+Build Time              : On and off for 3 weeks or so
+Texture Wad used        : quake101.wad (by id)
+                          qrally.wad   (by Impact)
+
+* Compilation *
+
+Compile Machine         : P166 w/32Mb RAM
+Bsp Time                : 354 seconds    (00:05:54)
+Light -extra Time       : 2446 seconds   (00:40:46)
+Vis -level 4 Time       : 100337 seconds (27:52:17)
+Total Compile time      : 103137 seconds (28:38:57)
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Ben Ackland.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Ben Ackland, as well as a hefty bribe. =P

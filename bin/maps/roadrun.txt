@@ -1,0 +1,34 @@
+Roadrunner by Alex Parker 1998 version 1
+(alexp@albany.jrc.net.au)
+
+A quake rally map (find it at impact.frag.com)
+
+A track which takes you from the city, down a back country road,
+through underground tunnels and over death - defying lava jumps!
+
+Watch out for the roo's in the outback bit.
+
+Average time - It takes me an average time of 71.5 seconds per lap.
+My fastest time is 69.5 seconds - Not bad eh?
+
+Bugs - Well, the tracking camera does pop out of the roof in places
+but this can be avoided by keeping the camera angle low :)
+
+Secrets - Find the pentagram of protection.  It's a pretty useless
+addition but its there nontheless.
+
+How to get around quicker...
+When you go over the final jump, swing the camera around 90 degrees
+to the right and the car will change direction mid air and land on
+the roof of the apartment block. If you do it just so, you can hack 
+a whopping 0.5 seconds off overall time.
+
+OH, one final note, turn on those headlights :)
+
+Cya round, and thanks to IMPACT for such wonderful game (it is a completely
+new game!)
+
+  Built in worldcraft
+  Textures from Quake, Various sources on the net and Impact's original WAD file
+  Please don't sue me.  An angry letter maybe, but no sueing please, I aint got no cashola
+Alex

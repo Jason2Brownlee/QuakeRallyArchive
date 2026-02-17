@@ -1,0 +1,66 @@
+================================================================
+Title                   : Nightmare Ridge
+Filename                : nmridge.bsp
+Release Date            : July 23rd, 1997
+
+Author                  : Mike Marechal (Dion)
+URL                     : http://insanequake.ml.org/server
+Email Address           : marechal@cryogen.com
+
+Description             : A track for Quake Rally, a mountain road with
+                          long drops, some tunnels and a jump. I tried to                         
+                          keep it simple to increase speed.
+                        
+Credits                 : id software for such a cool game and the Impact
+                          development for the best quake mod ever. Also thanks
+                          to Deranged-GS, Pip{DBZ}, and (Murphy) for testing.
+
+Best Lap Time           : 26.0 seconds (Dion)
+================================================================
+
+* Play Information *
+
+Type                    : Racing
+Single Player           : for time trials
+Bot Markers             : Yes
+Cooperative             : No
+Deathmatch              : 8 deathmatch starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft
+Known Bugs              : None that I know of
+Build Time              : Well um I started it like 4 months ago and just added
+                          new entities and stuff two days after Quake Rally came out.
+
+Texture Wad used        : textures.wad (by id)
+                          qrally.wad   (by sumaleth)
+
+Compile machine         : Intel Pentium 133/32MB
+QBSP Time               : 160.8 seconds
+Light (-extra) Time     : 1252.0 seconds
+VIS (-level 4) Time     : 170.0 seconds
+
+Brushes                 : 253
+Entities                : 121
+Models                  : 31
+
+* Where to get this level *
+
+http://insanequake.ml.org/server/files/nmridge.zip
+or E-Mail me at marechal@cryogen.com and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Mike Marechal.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file
+is included. If you wish to distribute this level comercially
+you must first obtain the permission of Mike Marechal.
+

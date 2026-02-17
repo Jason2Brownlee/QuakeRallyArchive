@@ -1,0 +1,89 @@
+================================================================
+Title                   : Vulcan (The Tensar Project heh heh)
+Filename                : Vulcan.bsp
+Release Date            : January 27th 1998
+
+Author                  : Peter Lomax 
+                          aka PCL
+                          aka Hawkmoon
+Email Address           : pcl@provider.co.uk (soon unavailable)
+                          hawkmoon@pcl.telinco.com (the new account)
+Web Address             : http://www.geocities.com/TimesSquare/Fortress/9617/
+                          (the place for my map news)
+                          *note new address*
+
+Description             : Pure racing
+                          Loosely based on a (rather large) figure of 8
+                          Lava themed with some multiplayer crossovers 
+                          (If anyone wants it converting to racingdm, let me know)
+                         
+Credits                 : id software for the "Neverending Game" 
+                          Impact development for "Patch of the Year"
+                          Yahn Bernier for "Best Map Making Tool"
+
+Best Lap Time           : 54.5 secs - MaNiAc
+================================================================
+
+* Play Information *
+
+***This map only works with the Quake Rally patch from Impact Developments***
+
+Type                    : Racing
+Single Player           : for practice and time attack
+Bot Markers             : No (Maybe later if the bot code is resolved)
+Cooperative             : No
+Deathmatch              : 8 "deathmatch" starts for multiplay race
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : qrally.wad from Impact Developments
+New Music               : No
+Demos Replaced          : None
+
+Put Vulcan.bsp in Rally/Maps directory
+Start QRally using the launcher
+When the demo starts bring down the console and type map vulcan
+(or you can add +map Vulcan to the extra settings to jump straight to this track) 
+
+* Construction *
+
+Base                    : None
+Editor(s) used          : BSP v0.86b (the best of the best)
+Known Bugs              : none - if you find any email me
+Build Time              : Too long
+                          
+
+Texture Wad used        : Selected id textures
+                          qrally.wad
+                          
+Compile machine         : Pentium 200MMX/40MB
+QBSP Time               : 58.0 seconds (used Transparent Water QBSP Version 1.65
+                                        by Ken Alverson (KenA@TSO.Cin.IX.Net))
+Light (-extra) Time     : 780.0 seconds (used ArghLite v2.0 by Tim Wright argh@ntplx.net 
+                                          minlight set to 80)                      
+VIS (-level 4) Time     : 2049.0 seconds - vis`d for GlQuake but ok for DosQuake and WinQuake
+
+Entities                : 378 
+
+================================================================
+
+* Where to get this level *
+
+If you can read this you have already found a place
+or http://www.geocities.com/TimesSquare/Fortress/9617/ following the QRally link
+or E-Mail me at  and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Peter Lomax.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file is included.
+If you wish to use this map in a level pak, you must first obtain my permission.  
+If you wish to distribute this level commercially (including, but not
+limited to, magazine cover CD`s) you must first obtain my permission.
+Also bear in mind that the textures used belong to id and Impact Developments 
+
+Special thanks to:
+Angie,Michael and Mat for the LAN testing
+MaNiAc (chief map tester),Jagged and HiLandR(visit http://www.warzone.com/qrr/pitstop/) 
+Bozer,BoBo and Traz (QRally map makers - http://www.warzone.com/designers/)
+

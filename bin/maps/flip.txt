@@ -1,0 +1,43 @@
+================================================================
+Title                   : Flip
+Filename                : Flip.bsp
+Release Date            : July 22th, 1997
+
+Author                  : Phil Clark a.k.a. MiSERY
+URL                     : None
+Email Address           : Thebes@Javanet.com
+
+Description             : Track for QuakeRally.
+                          deathmatch aspects implemented.
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : 8 deathmatch starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.0b
+Known Bugs              : not that I know of
+Build Time              : About 10
+
+Texture Wad used        : textures.wad (by id)
+
+
+Compile machine         : Intel 486/100 16mb RAM
+
+Copyright (c) 1997 Brian Hess.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Phil Clark.

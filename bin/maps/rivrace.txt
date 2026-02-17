@@ -1,0 +1,75 @@
+================================================================
+Title                   : River Race
+Filename                : rivrace.bsp
+Release Date            : July 27th 1997
+
+Author                  : Peter Lomax 
+                          aka PCL
+                          aka Hawkmoon
+Email Address           : pcl@provider.co.uk
+Description             : Pure racing
+                          Sections run along a river,fast bits,twisty bits,
+                          jumps,humps and a tight turn back to the riverbank
+                          Jolly good fun
+                          (If anyone wants it converting to dm, let me know)                         
+Credits                 : id software for the "Neverending Game" 
+                          Impact development for "Patch of the Year"
+                          Yahn Bernier for "Best Map Making Tool"
+Best Lap Time           : 20.2 seconds (Evangelist)
+================================================================
+
+* Play Information *
+
+***This map only works with the Quake Rally patch from Impact Developments***
+
+Type                    : Racing
+Single Player           : for practice and time attack
+Bot Markers             : No
+Cooperative             : No
+Deathmatch              : 8 deathmatch starts (best as 2 to 4) for multiplay race
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : BSP v0.82 (the best of the best)
+Known Bugs              : None - if you find any email me
+Build Time              : Two days
+                          (Would have been quicker but for the Ents problem - no origins !
+                           so simple when you know the answer) 
+
+Texture Wad used        : Selected id textures
+                          qrally.wad   
+
+Compile machine         : Pentium 200MMX/24MB
+QBSP Time               : erm seconds
+Light (-extra) Time     : 133.0 seconds
+VIS (-level 4) Time     : 3.0 seconds (yep three seconds)
+
+Entities                : 75
+Models                  : 8
+
+* Where to get this level *
+
+If you can read this you have already found a place
+or E-Mail me at pcl@provider.co.uk and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Peter Lomax.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file is included.
+If you wish to use this map in a level pak, you must first obtain my permission.  
+If you wish to distribute this level commercially (including, but not
+limited to, magazine cover CD`s) you must first obtain my permission.
+Also bear in mind that the textures used belong to id and Impact Development
+
+Special thanks to:
+Angie,Michael and Mat for the LAN testing
+ACME UK clan for letting me play CTF sometimes  
+Mike Marechal - fellow map maker on whose text file this one is based
+
