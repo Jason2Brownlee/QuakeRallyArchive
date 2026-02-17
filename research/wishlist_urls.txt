@@ -14,10 +14,10 @@ ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11a_up.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11a_up.zip
 
 # qr11beta.zip
-ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11a_up.zip
-ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11a_up.zip
+ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11beta.zip
+ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11beta.zip
+ftp://ftp.stomped.com/pub/redwood/quakec/qr11beta.zip
 
 # qrspecs.zip
 http://impact.frag.com/files/qrspecs.zip
 http://www.time2quake.com/filez/quakerally/qrspecs.zip
-
