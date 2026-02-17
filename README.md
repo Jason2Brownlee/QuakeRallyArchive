@@ -23,7 +23,7 @@ Release Date | File | Description
 1997-07-25 | [qrWAD11.zip](bin/qrWAD11.zip) | Quake Rally Texture Wad
 1997-08-18 | [qrallymusic.zip](bin/qrallymusic.zip) | Quake Rally Music Tracks
 1997-10-04 | [qr12.zip](bin/qr12.zip) | Quake Rally v1.2
-1998-03-29 | [qrlo1.zip](bin/qrlo1.zip) | Quake Rally Leftovers (final release)
+1998-03-29 | [qrlo1.zip](bin/qrlo1.zip)<br>[leftovers.txt](bin/leftovers.txt) | Quake Rally Leftovers (final release)
 
 * **Date Format**: YYYY-MM-DD for easy sorting.
 * **No Link**: indicates that we could not locate a copy of the file yet.

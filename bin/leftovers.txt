@@ -1,0 +1,249 @@
+----------------------
+QUAKE RALLY: Leftovers                     [ Impact Development Team 3/98 ]
+----------------------
+
+-=> INTRO <=-
+
+    QR:Leftovers is the final release of Quake Rally, a mod for Quake1.
+
+    Included are many of the elements intended to be used in Ultimate
+    Rally including maps, new cars and the new odd feature or two. Ultimate
+    Rally was intended to be a major update, with nearly a dozen new cars,
+    heavily tweaked controls - including individual controls for each car -
+    and bots.
+
+    UR was cut off at the crossroads with the release of Quake2. Suddenly
+    playing Quake1 mods become old news, and editing Quake1 become.. boring.
+
+    Leftovers doesn't represent all of the UR work since most of the new
+    code was specific to UR (although skidmarks are included!). Apart from
+    the new code, and the 'qrally04' map, the real big draw card for UR
+    were the many highly professional car models created by Stecki. He
+    recently released these UR models in QR v1.2 format on his web page,
+    Deconstruct (see the Web Pages section below).
+
+    QR:Leftovers is as unsupported as any release is ever likely to be.
+    The bits and pieces present are released as-is, and if they don't
+    ultimately work then that is how it is. Spare time is now better spent
+    on our various Q2 projects than continuing work on something very few
+    people will actually bother to download, but it IS a good feeling to
+    finally put the icing on what has been one of the most fun projects
+    we've had the pleasure of working on.
+
+-=> USAGE <=-
+
+    Leftovers is a bit of a mishmash of elements, not all of which are
+    fused into the game to the extent that they would have been in UR.
+    What this really means is that the new/updated cars included can't
+    be included along with the old cars - they MUST replace some.
+
+    The cars have been given their own .pak file which means if you ever
+    want to use the replaced vehicles, you simply need to rename the
+    .pak file to something that Quake won't see.
+
+    INSTALLING:
+
+        Firstly, you MUST have Quake Rally v1.2 installed. You can download
+        QR 1.2 from:
+
+        http://impact.frag.com/files.htm
+
+        After downloading the qr12.zip file, unzip it WITH PATH NAMES INTACT
+        into your /quake/ directory.
+
+        To install QR:Leftovers, unzip the archive - WITH PATH NAMES INTACT -
+        also into your Quake directory. You should find it overwrites some files,
+        this is correct.
+
+    RUNNING:
+
+        Reading the documentation is essential for Quake Rally, and we will
+        ignore any email from people who obviously didn't read the docs.
+        Once you are totally familar with everything, you can start QR via
+        either the launcher program in the quake directory:
+
+        qrally.exe
+
+        (Which doesn't fully support QR:Leftovers, but can still be used if
+        you wish), or you can start the game manually with the standard Quake
+        mod command, ala:
+
+        quake -game rally -winmem 12
+
+ *NOTE* The -winmem addition is only needed if you plan to play qrally04.
+        Without the extra memory, the game will crash with an appropriate
+        error message. glQuake doesn't need it. If you use the launcher, you
+        can add '-winmem 12' to the "extra commands" box.
+
+        You may also wish to directly load one of the new maps:
+
+        +map start      (will load the start map which now has all maps linked)
+   (or) +map qrally04   (will load the Industrial Wastelands)
+   (or) +map qrally05   (will load Big Air)
+
+    USING THE NEW CARS:
+
+        Because there is no new code supporting the additional cars, the new
+        ones replace some old ones. If you want to get the old ones back (the
+        truck and the old hatchback), simply rename the pak3.pak file to something
+        not ending in .pak.
+
+-=> WHATS IN LEFTOVERS <=-
+
+    As mentioned, Leftovers is just a collection of various bits and pieces that
+    were destined for Ultimate Rally, and as presented here, most are at varying
+    stages of completion.
+
+    CARS:
+
+        Dackar          - replaces the Hatchback from the original QR. The model is
+                          the same, it's just a new skin. Skin by Sumaleth.
+
+        Death Wagon     - this model replaces the truck from QR (it uses the long
+    (&) Street Machine    wheelbase). The model is by Bone who also did the Death-
+                          Wagon skin (the dark one) in the original QR, while the
+                          Steet Machine skin (the bright one) was done by Sumaleth.
+                          In UR this car would have had substantially harder
+                          suspension to avoid the problem of the tires poking
+                          through the car on corners.
+
+        Stecki Cars     - this series of 8 very realistic cars were created by Stecki
+                          for UR. Stecki recently released two .pak files of these
+                          vehicles converted to the QR1.2 format. These cars are
+                          definitely recommended and can be downloaded from Stecki's
+                          web page:
+
+                          http://www.frag.com/deconstruct
+
+    MAPS:
+
+        Industrial Wastelands
+
+                        - finally 'qrally04' reaches the daylight of release. This epic
+                          map was started before the initial QR release and was
+                          intended to be in that first unveiling. Close to release it
+                          become apparent that there was still a LONG way to go before
+                          the map would be finished so it was left out, due to be
+                          added later in Ultimate Rally.
+
+                          Currently this map is still not 100% finished, but it's
+                          still hugely playable and presents a real challenge to get
+                          lap times under 60 seconds (impossible?).
+
+                          This map was co-created by Ridah and Sumaleth. Ridah did
+                          the outdoors stuff while Sumaleth created the underground
+                          section (beginning and ending with the long sloping
+                          corridors). Optimisation by Sumaleth.
+
+        Big Air         - a 3rd party maps that we considered good enough
+                          include as an offical map. Created by Dumbo, a early version
+                          of this map was released to the net a long time ago, but
+                          this version has been heavily re-edited and has one of the
+                          coolest features to yet appear in a QR map (you'll know it
+                          when you come to it).
+
+        Race Across Worlds
+
+                        - thanks to Sir_Race for providing us with this nostalgic map.
+
+    CODE:
+
+        The QR code base has moved entirely onto UR meaning that many of the cool
+        new features destined for UR are unavailable, however we were lucky enough
+        to find an old beta version of the progs.dat file which included one of
+        the major additions:
+
+        Skid Marks      - pure eye candy of course, but you'd be amazed how
+                          much they add to the fun, particularly when you
+                          are just playing around.
+
+        Bug Fixes       - there's probably some bug fixes in this version too.
+                          There's no way to tell if this was a bug free beta
+                          or not, so if it doesn't work it's just bad luck. But
+                          it seems to work fine here.
+
+    .MAPS:
+
+        We've included .map files for most of the official QR maps over the various
+        releases. It's hard to know if anyone will make use of these .maps, but
+        to the keen person it opens up possibilities of things like adding a time
+        trial circuit to the start map etc.
+
+        There is no .map provided for 'Big Air' or 'qrdm04'.
+
+        These .map files can be found in the /other/ directory.
+
+        If you modify and release one of these maps, be sure to credit the original
+        author (the authors are listed in the qrdocs.txt file).
+
+        Note: no promise is made that the .map files included are the actual ones
+              used to create the maps. It has been a LONG time since some of these
+              were last touched and so the only surefire way to tell would be to
+              compile each .map and compare it with the .bsp released with QR. We
+              are not prepared to do this, but lets just say that it's a good bet
+              these are the actual .map files.
+
+        Note: qrally04.map is actually very difficult to compile, but here's the final
+              commands used if anyone wants to play:
+
+              treeqbsp -splitspecial -oldleak qrally04.map
+              rvis -level 4 qrally04.bsp
+              light -extra qrally04.bsp
+
+              Note that for the final compile, it seemed that the combination of
+              treeqbsp and rvis was the only one that worked, and the -splitspecial
+              was 100% required. But other combinations worked at other times...
+              it was just a really weird map.
+
+              Even moving a single brush in the qrally04 map will most likely cause
+              it to not compile with this combination.
+
+-=> CREDITS <=-
+
+  QR:Leftovers is the product of Impact Development Team and a group of
+  talented recruits. For a full list of credits and contact addresses, read
+  the qrdocs.txt file.
+
+-=> CONTACT <=-
+
+  Please note that QR:Leftovers is totally unsupported and any email asking
+  questions about "how to.." or future features will most likely go unanswered
+  (a factor of the volume of email received, nothing more). If, however, you
+  MUST contact someone involved in QR:LO, there is an extensive list of email
+  addresses in the QRdocs.txt file.
+
+-=> IMPACT <=-
+
+    Here is a list of Quake mods and addons by Impact Development Team at
+    the time of release:
+
+        Quake1:-
+
+            Quake Rally
+            QR:Leftovers
+            Quess (Quake Chess)
+
+        Quake2:-
+
+            Eraser Bot      - deathmatch, teamplay and CTF bot
+            Morbo           - a plugin player model
+            Zumlin          - a plugin player model
+            Q2 Turret       - allows control of the turrets in Q2
+
+-=> WEB PAGES <=-
+
+    Impact Development Team:    http://impact.frag.com
+    Quake Rally homepage        http://impact.frag.com/rally
+    Quess homepage              http://impact.frag.com/quess
+    Deconstruct                 http://www.frag.com/deconstruct
+    Frag.com                    http://www.frag.com
+
+-=> DISCLAIMER/COPYRIGHT/RULES OF USE <=-
+
+    Read this same section at the bottom of the qrdocs.txt file for a full
+    list of copyrights and rules.
+
+    QR:Leftovers is released as-is with no guarantee of anything.
+
+    Quake and a good chunk of stuff present in Quake Rally is
+    copyright Id Software.
