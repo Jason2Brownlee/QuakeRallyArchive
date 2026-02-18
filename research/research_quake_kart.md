@@ -7,12 +7,12 @@ Quake Kart (aka QKart aka Quake Jeep) was a precursor to Quake Rally developed b
 Quake Kart official homepages.
 
 1. `nuc.net/quake/quakec` (Quake Command)
-	a. https://web.archive.org/web/20000817094156/http://www.nuc.net/quake/quakec/
-	b. https://web.archive.org/web/*/nuc.net/quake*
-	c. The official home page for the mod was `http://www.nuc.net/quake/quakec/qk` (not archived)
+	1. https://web.archive.org/web/20000817094156/http://www.nuc.net/quake/quakec/
+	2. https://web.archive.org/web/*/nuc.net/quake*
+	3. The official home page for the mod was `http://www.nuc.net/quake/quakec/qk` (not archived)
 2. `valvesoftware.com/hocopus` (Hoc Opus)
-	a. https://web.archive.org/web/19981205090724/http://www.valvesoftware.com/hocopus/
-	b. https://web.archive.org/web/*/http://www.valvesoftware.com/hocopus/*
+	1. https://web.archive.org/web/19981205090724/http://www.valvesoftware.com/hocopus/
+	2. https://web.archive.org/web/*/http://www.valvesoftware.com/hocopus/*
 
 ## Release History
 
@@ -69,7 +69,7 @@ Mentioned on Shake N' Quake:
 
 ### Quake Kart Map Specs (October 18th-20th 1996)
 
-Released as `[kartspec.txt](../bin/extensions/kartspec.txt)` on October 19 1996.
+Released as `kartspec.txt` on October 19 1996.
 
 Pre-announced, picked-up by BluesNews:
 
@@ -94,7 +94,13 @@ And announced two days later:
 
 -- https://www.bluesnews.com/s/224628/quake-kart-specs
 
-This file `kartspec.txt` was later referenced and distributed with the Quake Rally specification (e.g. [specs.html](../bin/other/specs.html)).
+This file `kartspec.txt` was later referenced and distributed with the Quake Rally specification (e.g. `specs.htm`).
+
+> For those of you who have the KARTSPEC.TXT written by QC_Wedge for the QuakeKarts project, I would advise you to have another read through that. If not then you can get it here. I was just looking at it then and almost everything in there applies to QuakeRally. So instead of re-typing the same stuff, make sure you go now and read through the whole file. Wedge gives some excellent tips for Track Editors in the Track Building DO'S & DONT'S section.
+>
+> If there is anything else I have missed then go ahead and ask me, but please make this your last option. I have lots of things on my plate right now, and that is the reason I am asking y'all for help with the tracks. I especially dont wanna read 10 emails a day asking questions that you can find the answer by having another read through here, or reading the KARTSPEC'S. Otherwise have fun editing and I hope that you can experience the same thrill I get out of contributing to a cool game like this :).
+
+-- [http://www.geocities.com/SiliconValley/Heights/8499/specs.htm](https://web.archive.org/web/19990221052049/http://www.geocities.com:80/SiliconValley/Heights/8499/specs.htm)
 
 
 ### Quake Kart Test (October 20th 1996)
