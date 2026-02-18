@@ -1,0 +1,164 @@
+           --------------------------------------------------
+           Q U A K E    C H A M P I O N S H I P   R A C I N G
+				B A S E D   O N
+			  U L T I M A T E   R A L L Y
+           --------------------------------------------------
+
+                              by
+
+                      [ Stephen Heijster ]
+                                                           Dec 19/1998
+
+    *** E-mail and web page addresses are located at the bottom ***
+
+
+-=> NOTE <=-
+-This project has been DISCONTINUED and no more modifications/bug fixes will
+        be done.  Please dont email me asking to fix bugs or to implement
+        new features.
+-Quake Championship Racing is not a project of the Impact Development Team
+	so they cannot give ANY support for it.
+
+-=> INTRODUCTION <=-
+This addon basicly adds the original UR models made by Steki
+(www.frag.com/deconstruct) (except for the new wheels for the truck).
+I also added sound for the BMW and the Mini which I got from Ridah.
+Any one that has proper sounds for any of the other vehicles can
+e-mail them to me and I will try to put them in.
+
+The biggest addition is the racing bots.  The bots don't have any health
+so they cannot die, they won't show up on the scores, and they don't shoot.
+I have placed markers in maps QR1 - QR4.  I tried putting markers in QR5
+but the first section was too tight and the bots couldn't navigate.  The
+bots are not extreamly good and have some bugs (look at the bottom for a bug
+list).
+
+
+-=> INSTALLATION/USAGE <=-
+
+After downloading the qCR.zip file, unzip it WITH PATH NAMES INTACT into
+your /quake/ directory.
+
+
+-=> CHANGES IN QUAKE RALLY <=-
+- New cars
+- Some new sounds
+- Racing bots
+- Different colored skids for different surfaces
+- New camera mode by Ridah
+- Fixed some old bugs
+- New Observer cam mode
+- Changed some impulses  (Check Impulses section below)
+- Fixed the start map
+- Updated qrally01.map and qrally04.map with the bot markers
+- Pak file contents:
+		Pak0.pak- miscellaneous files
+		Pak1.pak- Vehicle and tire models
+		Pak2.pak- Music .wavs
+		Pak3.pak- Vehicle engine sounds
+- Changed the order of play of the maps.  The maps, in order of play, are:
+                 1.  qrally01     - The Franklin Project
+                 2.  qrdm03       - Downtown
+                 3.  qrally02     - Mining Station
+                 4.  qrdm01       - The Bowl
+                 5.  qrally03     - Chasm
+                 6.  qrdm04       - Cliffside Carnage 3
+                 7.  qrally04     - Industrial Wastelands
+                 8.  qrdm02       - Interstate 95
+                 9.  qrally05     - Big Air
+
+- Number of laps for some maps might be changed
+- Cars and weapons are seperate models
+
+
+-=> NEW IMPULSES AND KEYS <=-
+
+	Impulse 25      'o'		Observer cam mode
+	Impulse 150	'['		Goto previous observer target.
+	Impulse 151	']'		Goto next observer target.
+
+	Impulse 33			Toggle strafe style tracking.
+
+	Impulse 210			Select Mini with 1st skin
+	Impulse 211			Select Volvo with 1st skin
+	Impulse 212			Select BMW with 1st skin
+	Impulse 213			Select Viper with 1st skin
+	Impulse 214			Select Monster Truck with 1st skin
+	Impulse 215			Select Jeep with 1st skin
+	Impulse 216			Select Hummer with 1st skin
+
+	Impulse 70      'b'		Spawn a bot
+	Impulse 71      'r'		Remove all bots
+
+
+-=> KNOWN BUGS/PROBLEMS <=-
+
+There are some bugs in Quake Rally. Please read this list before mailing
+us with any problems.
+
+- Cars are not totally solid (Can't fix this)
+- Sometimes bots will bounce when following right behind other cars (Fixed, I think)
+- Bots sometimes go through walls or floors when in the air (Fixed, or at least not
+	as bad as before)
+- Sometimes a bot will continuously circle a marker (Fixed)
+- Bots fly into the air sometimes after starting downhill (most often in QR3 map) (Fixed)
+- Bots go half way through the floor in one part of QR3 (This is not a problem
+	in code.  I think something is wrong with the level in that spot)
+- Repulsor models don't fit perfectly on some cars
+- Sometimes a bot disappears when the race starts (Fixed, I think)
+- Bots hardly move on some maps. (QR4 in particular)
+- Quake has been know to crash once in a while when running bots
+
+-=> CREDITS <=-
+
+	Impact Developement Team for creating Quake Rally
+
+	Ryan Feltrin for the code and for some car sounds
+	Jeff 'Stecki' Garstecki for the car models
+	Ben 'Phantom Stranger' McMillan for helping me test in multiplayer
+
+  Contact:-
+
+	For any questions please e-mail me at:
+
+	heijster@sunwave.net
+
+  WEB Pages:-
+
+	Impact Development (Makers of the original QR, cannot give support for qCR)
+							http://impact.frag.com/
+
+        Deconstruct (Steki's Home Page)
+							http://deconstruct.terrafusion.com/
+
+
+-=> DISCLAIMER/COPYRIGHT/RULES OF USE <=-
+
+    Quake Rally is provided as-is with no implied guarantee of
+    anything apart from being an addon for Quake. Every effort has
+    been made to make QR as enjoyable and bug-free as possible.
+    Honest.
+
+  ****IMPORTANT****
+    Quake Rally may NOT be sold. Quake Rally may NOT be included on any
+    CD-ROMs (magazines, compilations or other), unless express permittion
+    is granted by us, the Impact Team.
+
+  ****IMPORTANT****
+    All work present in Quake Rally which wasn't part of the original
+    Quake package is copyright of the respective authors. No elements
+    may be used in any other products (free or otherwise) without
+    consent from the author. All textures, models and other graphical
+    elements may only be used in Quake Rally products - ie. you
+    cannot use the textures in non-Quake Rally maps or sprites/mdls
+    in other projects.
+
+    Breaking of any of these rules will be taken very seriously.
+
+    Enjoyment MUST be obtained when playing Quake Rally. See your
+    doctor if enjoyment resists.
+
+    Quake and a good chunk of stuff present in Quake Rally is
+    copyright Id Software.
+
+    Duke Nukem is copyright of 3DRealms.
