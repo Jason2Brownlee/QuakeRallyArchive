@@ -26,6 +26,7 @@ ftp://ftp.stomped.com/pub/redwood/quakec/qr12_up.zip
 ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr12_up.zip
 ftp://ftp.torget.se/quake/tc/qr12_up.zip
 http://impact.frag.com/files/qr12_up.zip
+http://mime.ablecommerce.com/quake/qr/qr12_up.zip
 
 # qrwad10.zip
 http://deathed.stomped.com/files/qrwad10.zip
@@ -41,3 +42,9 @@ http://www.bluesnews.com/files/gamemovies/ur_promo.zip
 
 # deadlust.zip
 ftp://cyanide.ml.org/pub/qrally/maps/deadlust.zip
+
+# qrallyfdg.zip
+http://anet-stl.com/~aclowry/mud/qrallyfdg.zip
+
+# qrallykit.zip
+http://deathed.stomped.com/files/qrallykit.zip
