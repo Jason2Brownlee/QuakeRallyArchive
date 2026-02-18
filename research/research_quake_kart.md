@@ -124,6 +124,10 @@ A version appears on QCA referred to as "Test Karts:
 
 Which links to `ftp://ftp.dragonfire.net/users/c/chriscon/testkart.zip` (not archived).
 
+The patch is linked as "Test QuakeKarts" in a list of vehicle mods:
+
+-- [http://www.planetquake.com/qca/patches/qc-vehic.htm](https://web.archive.org/web/19970611203213/http://www.planetquake.com:80/qca/patches/qc-vehic.htm)
+
 
 ### Quake Rally Announcement (October 23rd 1996)
 
