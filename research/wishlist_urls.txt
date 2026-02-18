@@ -48,3 +48,6 @@ http://anet-stl.com/~aclowry/mud/qrallyfdg.zip
 
 # qrallykit.zip
 http://deathed.stomped.com/files/qrallykit.zip
+
+# testkart.zip
+ftp://ftp.dragonfire.net/users/c/chriscon/testkart.zip

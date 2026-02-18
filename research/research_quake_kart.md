@@ -1,6 +1,8 @@
 # Quake Kart Release History
 
-Quake Kart (aka QKart aka Quake Jeep) was a precursor to Quake Rally developed by Steve Bond aka "Wedge" and John Guthrie "Choryoth" on their website "Quake Command". Both developers join Valve to work on Half-Life. The Quake Kart project was not completed and very little mention of it survives.
+Quake Kart (aka "QuakeKart" aka "QuakeKarts" aka "QKart" aka "Quake Jeep") was a precursor to Quake Rally developed by Steve Bond aka "Wedge" and John Guthrie "Choryoth" on their website "Quake Command".
+
+Both developers join Valve to work on Half-Life. The Quake Kart project was not completed and very little mention of it survives.
 
 ## Official Homepages
 
@@ -105,7 +107,7 @@ This file `kartspec.txt` was later referenced and distributed with the Quake Ral
 
 ### Quake Kart Test (October 20th 1996)
 
-A test for the mod was released. The map specs suggests it was named or contained `Kart3.map`.
+A test for the mod was released (perhaps as `testkart.zip`). The map specs suggests it was named or contained `Kart3.map`.
 
 > Quake Kart Test Patch [Oct 20, 1996, 11:00 am ET] – Post a Comment\
 > For those endeavoring to make Maps for Quake Command's upcoming Quake Kart patch, there is a test patch on their Quake C Page that will show how large and fast the Karts are. Wedge warns:
@@ -113,6 +115,15 @@ A test for the mod was released. The map specs suggests it was named or containe
 >> "This patch is not fun or otherwise useful. I promise. If you aren't going to make a track for QKart, don't bother DL'ing the patch."
 
 -- https://www.bluesnews.com/s/224638/quake-kart-test-patch
+
+A version appears on QCA referred to as "Test Karts:
+
+> This is the first actual kart release from the boys at Quake Command. But Quake Command has left us, and left the kart unfinshed. Im hoping someone will take me model and code and modify it so it works like it was originally intended to. It has a great new model of the QuakeKart. This version just lets you spawn a Kart, and it'll drive straight forward.
+
+-- [http://planetquake.com/qca/patch77.htm](https://web.archive.org/web/19970611065148/planetquake.com/qca/patch77.htm)
+
+Which links to `ftp://ftp.dragonfire.net/users/c/chriscon/testkart.zip` (not archived).
+
 
 ### Quake Rally Announcement (October 23rd 1996)
 
@@ -168,8 +179,8 @@ Mentioned in an interview with the developer of Quake Rally, about one year late
 >
 > < HiLandR > i've seen a pic of quake kart, it kinda sucks when compared to QR
 >
-> [19:42] < `Jagged > Heh, I found the old QR demo, remember that? It was dated around november of last year, looked kinda different\
-> [19:42] < `Jagged > heh :)
+> [19:42] < Jagged > Heh, I found the old QR demo, remember that? It was dated around november of last year, looked kinda different\
+> [19:42] < Jagged > heh :)
 >
 > [19:42] < Ridah > hah yeh. QKart was started around the same time as us, it was quite funny seeing people drooling over it, when we were playing QR, which was so much more advanced, from what I could see.
 

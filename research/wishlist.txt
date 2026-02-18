@@ -17,6 +17,7 @@ deadlust.zip
 # extensions
 UR_promo.zip
 qCR.zip
+testkart.zip
 
 # not sure what these are
 qrallykit.zip
