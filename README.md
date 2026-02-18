@@ -71,8 +71,10 @@ Other Quake Rally files in [bin/other/](bin/other/) that may be helpful in some 
 
 Name | File(s)
 --- | ---
+? | qrallykit.zip
 Quake Rally Documentation | [qrentities.htm](bin/other/qrentities.htm)<br>[specs.htm](bin/other/specs.htm)<br>[trackFAQ.htm](bin/other/trackFAQ.htm)<br>[TODO.TXT](bin/other/TODO.TXT)
 Quake Rally Entities for qED | [qrally.exe](bin/other/qrally.exe)
+Quake Rally Entities in FGD format | qrallyfdg.zip
 Zip of Files from qr10full.exe | [qrally.zip](bin/other/qrally.zip)
 
 ## Quake Rally Precursors and Extensions
