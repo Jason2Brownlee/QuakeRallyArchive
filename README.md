@@ -65,6 +65,16 @@ Tubular Cataclysm | [peejqr2.txt](bin/maps/peejqr2.txt)<br>[peejqr2.zip](bin/map
 Urban Driveby | [udriveby.txt](bin/maps/udriveby.txt)<br>[udriveby.zip](bin/maps/udriveby.zip)
 Vulcan | [vulcan.txt](bin/maps/vulcan.txt)<br>[vulcan.zip](bin/maps/vulcan.zip)
 
+## Quake Rally Other
+
+Other Quake Rally files in [bin/other/](bin/other/) that may be helpful in some way.
+
+Name | File(s)
+--- | ---
+Quake Rally Documentation | [qrentities.htm](bin/other/qrentities.htm)<br>[specs.htm](bin/other/specs.htm)<br>[trackFAQ.htm](bin/other/trackFAQ.htm)<br>[TODO.TXT](bin/other/TODO.TXT)
+Quake Rally Entities for qED | [qrally.exe](bin/other/qrally.exe)
+Zip of Files from qr10full.exe | [qrally.zip](bin/other/qrally.zip)
+
 ## Quake Rally Precursors and Extensions
 
 Alphabetical list of precursor and extension mods for Quake Rally in [bin/extensions/](bin/extensions/).
