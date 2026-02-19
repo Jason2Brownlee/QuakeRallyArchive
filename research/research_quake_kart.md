@@ -10,9 +10,13 @@ Quake Kart official homepages.
 
 1. `nuc.net/quake/quakec` (Quake Command)
 	1. https://web.archive.org/web/20000817094156/http://www.nuc.net/quake/quakec/
-	2. The official home page for the mod was `http://www.nuc.net/quake/quakec/qk` (not archived)
 2. `valvesoftware.com/hocopus` (Hoc Opus)
 	1. https://web.archive.org/web/19981205090724/http://www.valvesoftware.com/hocopus/
+
+The official home page for the mod may have been:
+
+* `http://www.nuc.net/quake/quakec/qk` (not archived)
+* `http://www.nuc.net/quake/kart.html` (not archived)
 
 ## Release History
 
