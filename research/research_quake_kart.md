@@ -73,12 +73,11 @@ Mentioned on Shake N' Quake:
 
 Released as `kartspec.txt` on October 19 1996.
 
-Here's a snippet:
+Here's a snippet (edited for for matting):
 
 > Quake Kart Map Specs, first draft.  10/19/96
-> --------------------------------------------
 >
-> ** This text file is not for redistribution! This file may not be made available for download ANYWHERE. If you wish to make
+> This text file is not for redistribution! This file may not be made available for download ANYWHERE. If you wish to make
 this document's existance known to others, inform them that this file may be found on Quake Command, and provide the URL
 (http://www.nuc.net/quake/quakec) this is not a preview or otherwise playable version of Quake Kart, it is a mere
 specifications sheet for prospective Quake Kart project participants. It belongs online ONLY at Quake Command. Thanks!
@@ -161,6 +160,16 @@ The patch is linked as "Test QuakeKarts" in a list of vehicle mods:
 
 -- https://www.bluesnews.com/archives/oct96-3.html
 
+### Satire (November 13th 1996)
+
+Included in the Quake Pages satire, including screenshots (I think):
+
+> 13th Nov '96\
+> Mad Baz Jumps 12 Shamblers in Kart\
+> It is rare that one witnesses a world record being broken. Today I was lucky enough to witness just that. Mad Barry McFinigan jumped 12 Shamblers in his quake kart...
+
+-- [http://planetquake.com/sujoy/Archives/Nov96/Mbjtsik.shtml](https://web.archive.org/web/19970310003132/planetquake.com/sujoy/Archives/Nov96/Mbjtsik.shtml)
+
 ### Quake Kart Cancelled (December 15th 1996)
 
 Update suggesting the Quake Kart mod was cancelled:
@@ -223,5 +232,25 @@ Mentioned in an interview with the developer of Quake Rally, about one year late
 
 -- [http://pitstop.warzone.com/interviews/ridah.html](https://web.archive.org/web/19971221092101/http://pitstop.warzone.com:80/interviews/ridah.html)
 
+### Request For Download (December 1st 1997)
 
+A request was made for a copy of the mod on a telefragged messageboard:
+
+> Posted by mr_scream on December 01, 1997 at 19:00:19:\
+> Is there anywhere that I could download the original Quake Karts?
+
+-- [http://www.telefragged.com/message_boards/nakedman/messages/1013.html](https://web.archive.org/web/19980114173245/http://www.telefragged.com/message_boards/nakedman/messages/1013.html)
+
+
+### Team Regret (January 11th 1999)
+
+Mentioned as a regret that th e Quake Kart project was never completed in an interview with Wedge and Choryoth:
+
+> Most of us remember the work both of you contributed to the Quake community when Quake 1 first hit the scene.  You were doing all of these cool projects and posting their progress on Quake Command.  Was there anything that you had to simply drop because you went to work for Valve, things we did not even know about? Was there any mod in particular that either of you wish you could have completed?
+>
+> John - We dropped a handful of projects, the most ambitious being something we called 'Teamwar' (similar to what Team Fortress is)    Quake Kart (inspired by Mario kart) is one I wish we had completed.    Mario Kart (N64) was the one game we played as much as Quake.  Bringing it to Quake (with additional gameplay elements) was what we were working hard on when we were swept away to Valve.
+>
+> Steve- I'd definitely agree that Teamwar and Quake Kart were two mods that I would have really loved to see finished. They were both pretty ambitious and we'd have needed to devote several hours a day to each project to finish them in any reasonable amount of time and when we first got to Valve we were having so much fun that we spent almost every waking hour in the office.
+
+-- [http://shugashack.com/samhell/previous/valve.htm](https://web.archive.org/web/19991005110519/shugashack.com/samhell/previous/valve.htm)
 
