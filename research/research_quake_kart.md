@@ -73,6 +73,30 @@ Mentioned on Shake N' Quake:
 
 Released as `kartspec.txt` on October 19 1996.
 
+Here's a snippet:
+
+> Quake Kart Map Specs, first draft.  10/19/96
+> --------------------------------------------
+>
+> ** This text file is not for redistribution! This file may not be made available for download ANYWHERE. If you wish to make
+this document's existance known to others, inform them that this file may be found on Quake Command, and provide the URL
+(http://www.nuc.net/quake/quakec) this is not a preview or otherwise playable version of Quake Kart, it is a mere
+specifications sheet for prospective Quake Kart project participants. It belongs online ONLY at Quake Command. Thanks!
+>
+> (Quake webmasters -> please stick with us on this one.)
+>
+> IF you have retrieved this file from a source other than Quake Command, please ask the administrator of the source to remove
+this file from their site, or contact me (wedge@nuc.net).
+>
+> I'm not trying to make this seem like something all high and mighty... it's actually quite the opposite: a rough technical
+draft of the Quake Karts map specifications. Should I need to make an important update or bug fix, it would be a hell of a
+lot easier if this file is only available from our Web Site. This ensures that everyone has access to the latest QK map
+information, and won't have to wonder whether or not an unauthorized mirror site has the latest specifications.
+>
+> ...
+
+-- [http://www.frag.com/quakerally/kartspec.txt](https://web.archive.org/web/19990204012212/http://www.frag.com/quakerally/kartspec.txt)
+
 Pre-announced, picked-up by BluesNews:
 
 > Quake C Department [Oct 18, 1996, 11:00 am ET] – Post a Comment\
@@ -174,6 +198,15 @@ Picked-up by BluesNews:
 
 -- https://www.bluesnews.com/s/225389/jet-ski
 
+### Casual Mention (July 9th 1997)
+
+Mentioned in mpassing with the release of the QTanks mod on ShugaShack:
+
+> Wednesday, July 9th 9:44pm\
+> Quake Tanks\
+> The first public beta of QTanks is out, v0.1. It's no QuakeKarts... but still kinda nifty.
+
+-- [http://www.shugashack.com/archives/j11_j6.htm](https://web.archive.org/web/20010306095153/http://www.shugashack.com/archives/j11_j6.htm)
 
 ### Quake Kart vs Quake Rally (November 3rd 1997)
 
@@ -189,5 +222,6 @@ Mentioned in an interview with the developer of Quake Rally, about one year late
 > [19:42] < Ridah > hah yeh. QKart was started around the same time as us, it was quite funny seeing people drooling over it, when we were playing QR, which was so much more advanced, from what I could see.
 
 -- [http://pitstop.warzone.com/interviews/ridah.html](https://web.archive.org/web/19971221092101/http://pitstop.warzone.com:80/interviews/ridah.html)
+
 
 
