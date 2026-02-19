@@ -10,11 +10,9 @@ Quake Kart official homepages.
 
 1. `nuc.net/quake/quakec` (Quake Command)
 	1. https://web.archive.org/web/20000817094156/http://www.nuc.net/quake/quakec/
-	2. https://web.archive.org/web/*/nuc.net/quake*
-	3. The official home page for the mod was `http://www.nuc.net/quake/quakec/qk` (not archived)
+	2. The official home page for the mod was `http://www.nuc.net/quake/quakec/qk` (not archived)
 2. `valvesoftware.com/hocopus` (Hoc Opus)
 	1. https://web.archive.org/web/19981205090724/http://www.valvesoftware.com/hocopus/
-	2. https://web.archive.org/web/*/http://www.valvesoftware.com/hocopus/*
 
 ## Release History
 
@@ -35,7 +33,7 @@ On BluesNews:
 
 -- https://www.bluesnews.com/s/224256/flame-thrower-part-ii-and-then-quake-karts
 
-## Project Update (September 11th 1996)
+### Project Update (September 11th 1996)
 
 Project update on BluesNews
 
@@ -60,7 +58,7 @@ Mentioned in passing on Redwood's News while announcing the aircraft mod:
 
 -- [http://redwood.stomped.com/996.html](https://web.archive.org/web/20010619143518/http://redwood.stomped.com/996.html)
 
-## Project Update (October 15th 1996)
+### Project Update (October 15th 1996)
 
 Mentioned on Shake N' Quake:
 
@@ -150,6 +148,19 @@ Which links to `ftp://ftp.dragonfire.net/users/c/chriscon/testkart.zip` (not arc
 The patch is linked as "Test QuakeKarts" in a list of vehicle mods:
 
 -- [http://www.planetquake.com/qca/patches/qc-vehic.htm](https://web.archive.org/web/19970611203213/http://www.planetquake.com:80/qca/patches/qc-vehic.htm)
+
+Discussion of what it's like to play the test:
+
+> ...\
+> Exploding Walls? That'll be an entity not wall. You can't do dynamic map changes. id rushed Quake out. Most of the great stuff that'll be seen in Quake will be from non-profit Quake fanatics. But then exploding lights.. Hmm.. Gee. That adds so much to the game play doesn't it? I prefer the thought of riding around in a Jeep (Quake Command) rather than saying "Look! That crate can go boom!".
+
+And response:
+
+> Yeah, exploding walls are really entities with the same wall patern, etc. But since everything not-a-wall is an entity, everything can in theory be made to explode. And image hidding secrets behind crates that you have to blow up first. The example with exploding walls had an elevator blocked by crates that could be demolished. Or if you see somebody in front of you, shoot celing above them and watch as they are crushed by the rubble.
+>
+> The jeep is cool, but limmited by the current quake levels. No were to drive! QuakeKart looks cool as hell. Even the "crappy" map that Wedge made ispretty cool. But both need people to download the patch to run it, and preferably download the new levels. Wish quake did that automatically.
+
+-- https://groups.google.com/g/um.wam/c/YI-ekISrboY/m/8sXGWTKhFjYJ
 
 
 ### Quake Rally Announcement (October 23rd 1996)
