@@ -51,6 +51,14 @@ Project update on BluesNews
 
 -- https://www.bluesnews.com/archives/sept96-2.html
 
+There may be a screenshot re-posted on "Augie's messy Quake page":
+
+> Anyone wanna go mud bogging in quake?....Check this pic out of Wedge and Choryoth's latest project called Quake Kart. It's gonna be cool! Don't forget to visit them at Quake Command.
+
+With the link: [http://www.nuc.net/~augie/kart.jpg](https://web.archive.org/web/19970502012445fw_/http://www.nuc.net/~augie/kart.jpg)
+
+-- [http://www.nuc.net/~augie/aquake.html](https://web.archive.org/web/19970502002119/http://www.nuc.net:80/~augie/aquake.html)
+
 Mentioned in passing on Redwood's News while announcing the aircraft mod:
 
 > ==September 11== 11:25p.m. CDT\
