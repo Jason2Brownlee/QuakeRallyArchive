@@ -173,13 +173,30 @@ And response:
 
 ### Satire (November 13th 1996)
 
-Included in the Quake Pages satire, including screenshots (I think):
+Included in the Quake Pages satire, including screenshots (I believe):
 
 > 13th Nov '96\
 > Mad Baz Jumps 12 Shamblers in Kart\
 > It is rare that one witnesses a world record being broken. Today I was lucky enough to witness just that. Mad Barry McFinigan jumped 12 Shamblers in his quake kart...
 
 -- [http://planetquake.com/sujoy/Archives/Nov96/Mbjtsik.shtml](https://web.archive.org/web/19970310003132/planetquake.com/sujoy/Archives/Nov96/Mbjtsik.shtml)
+
+
+### QCEdit Documentation (November 18th 1996)
+
+Mentioned in the editor for the QuakeC called QCEdit:
+
+```text
+Although the basics of Quake-C editing is a very complicated thing, like
+almost anything else you can master it if you put some focus into it.  A
+prime example would be the work QUAKE COMMAND (http://www.nuc.net/quake) is
+doing.  So far they have created an airplane for us to use and are currently
+working on a massive teamplay patch along with a QuakeKart (think
+Quake-MarioKart).  This kind of patch can be done by anyone if they try hard
+enough.
+```
+
+-- https://www.gamers.org/pub/idgames2/quakec/utils/qcedit.txt
 
 ### Quake Kart Cancelled (December 15th 1996)
 
