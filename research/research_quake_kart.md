@@ -2,7 +2,7 @@
 
 Quake Kart (aka "QuakeKart" aka "QuakeKarts" aka "QKart" aka "Quake Jeep") was a precursor to Quake Rally developed by Steve Bond aka "Wedge" and John Guthrie "Choryoth" on their website "Quake Command".
 
-Both developers join Valve to work on Half-Life. The Quake Kart project was not completed and very little mention of it survives.
+Both developers joined Valve to work on Half-Life. The Quake Kart project was not completed and very little mention of it survives.
 
 ## Official Homepages
 
@@ -284,7 +284,7 @@ A request was made for a copy of the mod on a telefragged messageboard:
 
 ### Team Regret (January 11th 1999)
 
-Mentioned as a regret that th e Quake Kart project was never completed in an interview with Wedge and Choryoth:
+Mentioned as a regret that the Quake Kart project was never completed in an interview with Wedge and Choryoth:
 
 > Most of us remember the work both of you contributed to the Quake community when Quake 1 first hit the scene.  You were doing all of these cool projects and posting their progress on Quake Command.  Was there anything that you had to simply drop because you went to work for Valve, things we did not even know about? Was there any mod in particular that either of you wish you could have completed?
 >
