@@ -1,4 +1,4 @@
-# Quake Kart Release History
+# Quake Kart Research
 
 Quake Kart (aka "QuakeKart" aka "QuakeKarts" aka "QKart" aka "Quake Jeep") was a precursor to Quake Rally developed by Steve Bond aka "Wedge" and John Guthrie "Choryoth" on their website "Quake Command".
 

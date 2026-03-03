@@ -4,7 +4,7 @@ This project archives all releases of the **Quake Rally** modification for Quake
 
 **Quake Rally** (aka QuakeRally or QRally) is a total conversion modification for Quake developed by the "Impact Development Team" circa 1997.
 
-Learn more about technical release history in the [Quake Rally Research Essays](research/research.md).
+Learn more about technical release history in the [Quake Rally Research Essays](research/README.md).
 
 ## Quake Rally File Releases
 
@@ -22,11 +22,11 @@ Release Date | File | Description
 1997-07-21 | qrspecs.zip | Quake Rally Specifications
 1997-07-22 | qr11beta.zip | Quake Rally v1.1 beta
 1997-07-23 | [qr11a.zip](bin/qr11a.zip) | Quake Rally v1.1a
-1997-07-23 | qr11a_up.zip | Quake Rally v1.1a update
+1997-07-23 | qr11a_up.zip | Quake Rally v1.0 to v1.1a update
 1997-07-?? | qrwad10.zip | Quake Rally Textures v1.0
 1997-07-25 | [qrWAD11.zip](bin/qrWAD11.zip) | Quake Rally Textures v1.1
 1997-08-03 | [qr12.zip](bin/qr12.zip) | Quake Rally v1.2
-1997-08-03 | qr12_up.zip | Quake Rally v1.1 to v1.2 update
+1997-08-03 | qr12_up.zip | Quake Rally v1.1a to v1.2 update
 1997-08-18 | [qrallymusic.zip](bin/qrallymusic.zip) | Quake Rally Music Tracks
 1998-03-29 | [qrlo1.zip](bin/qrlo1.zip)<br>[leftovers.txt](bin/leftovers.txt) | Quake Rally Leftovers (final release)
 
@@ -87,8 +87,8 @@ Name | Author(s) | File(s)
 --- | --- | ---
 Checkered Flag: GoldCup | Joshua Klint aka "Halo 9",<br>Charlie Van Noland aka "Chazz",<br>Robert de Heus aka "Koolio",<br>"Lucid Designs Team" | [GCdemo.zip](bin/extensions/GCdemo.zip)<br>[GCv1.2.zip](bin/extensions/GCv1.2.zip)<br>[CFv1.2.zip](bin/extensions/CFv1.2.zip)<br>[CFv1.3.zip](bin/extensions/CFv1.3.zip)<br>[CFPREFABS.zip](bin/extensions/CFPREFABS.zip)<br>[CFTEX.zip](bin/extensions/CFTEX.zip)<br>[CFSOURCE.zip](bin/extensions/CFSOURCE.zip)<br>[team.zip](bin/extensions/team.zip)<br>[akcar1.zip](bin/extensions/akcar1.zip)<br>[gcl02.zip](bin/extensions/gcl02.zip)<br>[PATCHv1.31.zip](bin/extensions/PATCHv1.31.zip)<br>[QRallyBotsrc.zip](bin/extensions/QRallyBotsrc.zip)<br>[QRallysrc.zip](bin/extensions/QRallysrc.zip)<br>[rallyFIX.zip](bin/extensions/rallyFIX.zip)<br>[goldcup.zip](bin/extensions/goldcup.zip)
 Quake Championship Racing | Stephen Heijster | qCR.zip <br>[qCR.txt](bin/extensions/qCR.txt)
-Quake Rally 2097 (QR 2097) | Stuart Cam aka "Copy" | Unreleased
-Ultimate Rally (URally) | Ryan Feltrin aka "Ridha",<br>"Impact Development Team" | UR_promo.zip
+Quake Rally 2097 (QR 2097) | Stuart Cam aka "Copy" | ?
+[Ultimate Quake Rally](research/rresearch_ultimate_rally.md) (URally) | Ryan Feltrin aka "Ridha",<br>"Impact Development Team" | UR_promo.zip
 [Quake Kart](research/research_quake_kart.md) (QKart) | Steve Bond aka "wedge",<br>John Guthrie "Choryoth" | [kart.jpg](bin/extensions/kart.jpg)<br>[kartspec.txt](bin/extensions/kartspec.txt)<br>testkart.zip
 
 ## How You Can Help

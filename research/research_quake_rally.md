@@ -1,4 +1,4 @@
-# Quake Rally Release History
+# Quake Rally Research
 
 ## Official Homepages
 
@@ -47,7 +47,7 @@ Archive contents:
 
 ### Quake Rally Beta Review (December 19 1996)
 
-A review of an early beta version of Quake Rally was shared in mid December 1996:
+A review of an early beta version of Quake Rally by Anthony Alphier aka "DaKiller" was shared in mid December 1996:
 
 * [http://www.frag.com/quakerally/rallyreview.htm](https://web.archive.org/web/19981207014301/http://www.frag.com/quakerally/rallyreview.htm)
 
@@ -502,6 +502,19 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/aug97-1.html
 
+Mentioned on Redwoods:
+
+> August 3, 1997\
+> Quake Rally 1.2 Released\
+> Quake Rally v1.2 has been released! You can go to the Quake Rally page to see the changes. Download the 1.1a to 1.2 patch (6955k) or get the full version of 1.2 by downloading qr12.zip (9654k). Both are downloadable from Stomped and should prove faster than the Frag.com download. Please use the -d switch when unzipping these in DOS or make sure 'Use Folder Names' is checked in WinZip. Thanks for the info Ben Grussi.
+
+-- [http://redwood.stomped.com/897.html](https://web.archive.org/web/20011125200502/http://redwood.stomped.com/897.html)
+
+Links:
+
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr12_up.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr12.zip
+
 Contents of `qr12.zip`:
 
 ```text
@@ -583,6 +596,19 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/march98-4.html
 
+Mentioned on Redwoods:
+
+> March 29, 1998\
+> Quake Rally LeftOvers 1.0 Released!\
+> For those who remember (and still possess) the great Quake 1 mod, Quake Rally v1.2, you can now get Quake Rally LeftOvers v1.0 on the Impact page. I imagine there won't be any further versions despite the fact that they gave it a version number. QR Leftovers is some of the things that were going into Ultimate Rally that got scrapped once the mighty Quake 2 came out. I wish there was a Quake Rally for Quake 2 because it would be so much better (and it was good before). There are things like qrally04, skidmarks, and new cars. Go to the Impact Files Page for the original download site, or you can get qrlo1.zip (3990K - Stomped) from here. If you don't have the original Quake Rally, download qr12.zip (9655K - Stomped).
+
+-- [http://redwood.stomped.com/398.html](https://web.archive.org/web/20011122033345/http://redwood.stomped.com/398.html)
+
+Links:
+
+* ftp://ftp.stomped.com/pub/redwood/quakec/qrlo1.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr12.zip
+
 Archive contents:
 
 ```text
@@ -635,5 +661,10 @@ QUAKE RALLY: Leftovers                     [ Impact Development Team 3/98 ]
 ```
 
 
+## References
 
+* [Quake Rally Review, Frag.com](https://web.archive.org/web/19981207014301/http://www.frag.com/quakerally/rallyreview.htm)
+* [Quake Rally Review, TC Mag](https://web.archive.org/web/19970607042246/http://www.frag.com/tcmag/features/qr/tc-qr.htm)
+* [Quake Rally Review, QFever](https://web.archive.org/web/19971222134501fw_/http://qfever.telefragged.com/past/9/tcotw.htm)
+* [Ridha Interview, TC Mag](https://web.archive.org/web/19970607033911/http://www.frag.com/tcmag/interviews/ridint.htm)
 
