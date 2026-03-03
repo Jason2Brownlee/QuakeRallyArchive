@@ -78,6 +78,7 @@ Quake Rally Entities for qED | [qrally.exe](bin/other/qrally.exe)
 Quake Rally Entities in FGD format | qrallyfdg.zip
 QuakeRally Track Design Kit (DeathMatch Maker) | qrallykit.zip
 Zip of Files from qr10full.exe | [qrally.zip](bin/other/qrally.zip)
+Ultimate Rally Hummer and OZ Monte Carlo | [hummer.ZIP](bin/other/hummer.ZIP)<br>[fwhl_oz.ZIP](bin/other/fwhl_oz.ZIP)
 
 ## Quake Rally Precursors and Extensions
 
@@ -88,7 +89,7 @@ Name | Author(s) | File(s)
 Checkered Flag: GoldCup | Joshua Klint aka "Halo 9",<br>Charlie Van Noland aka "Chazz",<br>Robert de Heus aka "Koolio",<br>"Lucid Designs Team" | [GCdemo.zip](bin/extensions/GCdemo.zip)<br>[GCv1.2.zip](bin/extensions/GCv1.2.zip)<br>[CFv1.2.zip](bin/extensions/CFv1.2.zip)<br>[CFv1.3.zip](bin/extensions/CFv1.3.zip)<br>[CFPREFABS.zip](bin/extensions/CFPREFABS.zip)<br>[CFTEX.zip](bin/extensions/CFTEX.zip)<br>[CFSOURCE.zip](bin/extensions/CFSOURCE.zip)<br>[team.zip](bin/extensions/team.zip)<br>[akcar1.zip](bin/extensions/akcar1.zip)<br>[gcl02.zip](bin/extensions/gcl02.zip)<br>[PATCHv1.31.zip](bin/extensions/PATCHv1.31.zip)<br>[QRallyBotsrc.zip](bin/extensions/QRallyBotsrc.zip)<br>[QRallysrc.zip](bin/extensions/QRallysrc.zip)<br>[rallyFIX.zip](bin/extensions/rallyFIX.zip)<br>[goldcup.zip](bin/extensions/goldcup.zip)
 Quake Championship Racing | Stephen Heijster | qCR.zip <br>[qCR.txt](bin/extensions/qCR.txt)
 Quake Rally 2097 (QR 2097) | Stuart Cam aka "Copy" | ?
-[Ultimate Quake Rally](research/rresearch_ultimate_rally.md) (URally) | Ryan Feltrin aka "Ridha",<br>"Impact Development Team" | UR_promo.zip
+[Ultimate Rally](research/research_ultimate_rally.md) (URally) | Ryan Feltrin aka "Ridha",<br>"Impact Development Team" | UR_promo.zip
 [Quake Kart](research/research_quake_kart.md) (QKart) | Steve Bond aka "wedge",<br>John Guthrie "Choryoth" | [kart.jpg](bin/extensions/kart.jpg)<br>[kartspec.txt](bin/extensions/kartspec.txt)<br>testkart.zip
 
 ## How You Can Help
