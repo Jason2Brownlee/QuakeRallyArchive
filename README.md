@@ -14,7 +14,7 @@ Release Date | File | Description
 --- | --- | ---
 1996-12-06 | [qr_maps.zip](bin/qr_maps.zip) | Quake Rally Test Maps
 1997-02-12 | [qr_demo.zip](bin/qr_demo.zip) | Quake Rally Demo
-1997-07-18 | [qr10full.exe](bin/qr10full.exe)<br>[qr10full.txt](bin/qr10full.txt) | Quake Rally v1.0
+1997-07-19 | [qr10full.exe](bin/qr10full.exe)<br>[qr10full.txt](bin/qr10full.txt) | Quake Rally v1.0
 1997-07-19 | [qr10b_up.zip](bin/qr10b_up.zip) | Quake Rally v1.0b update
 1997-07-20 | [qr10c_up.zip](bin/qr10c_up.zip) | Quake Rally v1.0c update
 1997-07-21 | qr10d_up.zip | Quake Rally v1.0d update
