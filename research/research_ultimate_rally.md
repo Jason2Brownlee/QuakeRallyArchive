@@ -1,6 +1,6 @@
 # Ultimate Rally Research
 
-Also called "Ultimate Quake Rally" and "URally".
+Also called "Ultimate Quake Rally", "URally", and "UR".
 
 ## Official Homepages
 
@@ -59,7 +59,29 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/s/229863/interviews-updated
 
+
+### Progress Update (January 16 1998)
+
+Mentioned on the Impact Development page:
+
+> MORBO RELEASED!	. 	. 	Friday 16/1/98
+>
+> OK, that's another project finished and out the door ready for public consumption. I hope he proves to be fun. I now plan to spend this weekend finishing off my remaining work on Ultimate Rally (ooh, there's a name we haven't heard for a while) which basically consists of just some map work. There's some coding left for Ridah to do but I'm not sure when he'll be able to get to that, but UR will be released at some point! Stecki's cars will not go unused!
+
+-- [http://impact.frag.com/](https://web.archive.org/web/19980206044911/http://impact.frag.com/)
+
 ### Cancelled (February 17 1998)
+
+Mentioned on the Impact Development page:
+
+> Zumlin skin WIP/The future of Eraser, UR?	. 	Tuesday, 17/2/98
+>
+> OK, for those of you who are still visiting this page in seek of UR (Ultimate Rally) news or info, this is for you. I have posponed this long enough, but for the record, UR will never be completed. I know a lot of you must be aiming a dangerous weapon at me right now, but I'm afraid it fell victim to the on-slaught of the Quake2 engine. The moment it was release, I found myself wanting to learn more and more about it, which ultimately led to the demise of UR, code-wise. This is a sad thing for me to say, since it was looking to be a great game, with some of the best replica vehicle models I've seen (by stecki, over at Deconstruct) and the code additions, I truly believe it was approaching commercial quality, with the exception of the maps.
+Now, it is possible that I'll get a chance to fix up the few major tasks that remained, and get the package ready for some kind of premature release, but from history, things don't go that easily. A great deal of time is required to put together such a large package for such a large audience. I would estimate this time at being 3 or 4 days of continuous effort, and right now, I simply don't have that time. And when you factor in the significant decrease in demand for Quake1 engine games, I think that sadly, it just isn't going to happen.
+>
+> My sincere apologies to those who have been avidly following this page for UR news, but for the above reasons, UR is vaporware(tm). This marks my first project that has started and not finished, and is something I am not at all pleased about. I pride myself on getting the job done, and done to the best of my ability, *sigh*. Oh well, hopefully in the future, timing won't quite be of such importance (highly unlikely as long as I continue to work in the gaming community).
+
+-- [http://impact.frag.com/](https://web.archive.org/web/19980224192055/http://impact.frag.com/)
 
 Mentioned on BluesNews:
 

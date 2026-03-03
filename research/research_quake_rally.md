@@ -550,6 +550,18 @@ drwxrwxr-x  0 0      0           0 18 Jul  1997 RALLY/MAPS/
 
 Released as `qrallymusic.zip`.
 
+Mentioned on the Quake Rally Page:
+
+> Skill, music, more pics...	. 	. 	Monday 18/8/97
+>
+> We have received quite a lot of good comments about the music in QR which were written impossibly quickly by Virgill of the demo group Artwork (famous for his days in the legendary group Sanity). The loops are all quite short but I thought it about time to release the original .mod files which allow you to hear them pre-WAV. You will need a .mod player of some description (Win4Mod on PC, DeliTracker on Amiga etc), so if you have one then you can grab the mods HERE. Excellent stuff IMO, especially the guitar track. They were originally created as part of the "promo" dem but in the end I had no time to cut the sound together right and they ended up working so well in the game itself..
+
+-- [http://impact.frag.com/rally/](https://web.archive.org/web/19980109081658/http://impact.frag.com/rally/)
+
+Links:
+
+* http://impact.frag.com/files/qrallymusic.zip
+
 Contents of archive:
 
 ```text
@@ -582,6 +594,33 @@ Quake Rally homepage:
 
 -Virgill (no current email address)
 ```
+
+### Progress Update (February 21 1998)
+
+Ultimate Rally cancelled, work to be released as an update for Quake Rally called "Leftovers".
+
+Mentioned on the Impact Development page:
+
+> Q2 v3.12 incompatible with Eraser v0.6, QR	. 	Saturday, 21/2/98
+>
+> I've been looking at whats feasible for release from the old Ultimate Rally bits and pieces, and when it comes down to it there isn't a whole lot. Stecki is going to put his cars out as a separate pack, so the remaining stuff consists of:
+>
+> * 3 maps. One was destined to be a secret map and is just a simple little 3rd party map that had quite a cool design idea and proves really challenging for time trial. Another was a map that was released briefly to the net ages ago which has since been tweaked substantially and is actually now a REALLY fun map to race on. The third one, and what is really the centerpiece of the release, is the infamous qrally04. I never really got 100% finished, but I still think it turned out to be a kickass map. It was produced as a co-op between Ridah and myself, with Ridah doing all the outdoors stuff, and I did the underground section.
+> * One new car, the "deathwagon", created by Bone (who did the Magna skin for QR and also did our cool java'd menu thingy at the top of this page. This car also has an additional skin by myself.
+> * A completely new skin for an old model. The hatchback model from QR gets a second skin (all the original cars had two skins except the hatchback, so here it is) done by me ages ago.
+> * A tweaked skin on an old car. Nothing much, I just redid the stockcar windscreen into the same style as Stecki's cars thinking they might have fit together better in the game.
+> * Start map redone to accomodate the new maps.
+> * .map files for all the QR maps for anyone wanting to play around.
+>
+> Thats about it. The stuff destined for UR that won't be in this release are the skid marks (which were dead cool IMO), Stecki's cars (which are coming anyway), and all the code tweaking Ridah was working on (like all the new cars had different handling etc). The big problem is that the source code for QR1.2 which this release will be based on doesn't exist anymore, and the current code needs days of coding just to get it working again, so this release will be more an addon than another update. In other words, you'll get the maps and models, but they can only be loaded and used manually, the program can't be made aware of these new items. In the documentation I'll explain in detail how to do it, it's not that hard.
+>
+> Anyway, since this won't be a full update, it will no longer be called "Ultimate Rally", nor will it be "v1.3" - this set of addons will officially be called; QR: Leftovers.
+>
+> As far as progress goes, I just finished converting all the models to the old system and will be looking at the maps tomorrow. I have no idea on a release date, but I'm willing to go out on a limb and say that it'll be before christmas.
+>
+> Just in case anyone was wondering why the cars in QR when in gl mode look like total crap, it's actually because the skins are so huge. 3DFX cards allow a maximum texture size of only 256x256 whereas the QR ones with the wheels and weapons in the same model are actually around 1000x200. So the skin gets scaled down 4 times leaving the skin looking really lowres. This problem would be avoidable now of course, by rearranging the layout better and doing lowres skins for the weapons, but back when the system was worked out hardly anyone had 3D cards so it wasn't an issue. This won't be changed for Leftovers since it would be several weeks work.
+
+-- [http://impact.frag.com/](https://web.archive.org/web/19980224192055/http://impact.frag.com/)
 
 
 ### Quake Rally Leftovers (March 29 1998)
