@@ -44,6 +44,10 @@ Links:
 * http://impact.frag.com/rally/ultimate.htm
 * http://impact.frag.com/files/UR_promo.zip
 
+Historical Locations:
+
+* http://impact.frag.com/files/UR_promo.zip
+* http://www.bluesnews.com/files/gamemovies/ur_promo.zip
 
 ### Interview (November 28 1997)
 

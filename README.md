@@ -76,9 +76,11 @@ Name | File(s)
 Quake Rally Documentation | [qrentities.htm](bin/other/qrentities.htm)<br>[specs.htm](bin/other/specs.htm)<br>[trackFAQ.htm](bin/other/trackFAQ.htm)<br>[TODO.TXT](bin/other/TODO.TXT)
 Quake Rally Entities for qED | [qrally.exe](bin/other/qrally.exe)
 Quake Rally Entities in FGD format | qrallyfdg.zip
+QuakeRally Prefabs | [qrgallery.zip](bin/other/qrgallery.zip)
 QuakeRally Track Design Kit (DeathMatch Maker) | qrallykit.zip
-Zip of Files from qr10full.exe | [qrally.zip](bin/other/qrally.zip)
 Ultimate Rally Hummer and OZ Monte Carlo | [hummer.ZIP](bin/other/hummer.ZIP)<br>[fwhl_oz.ZIP](bin/other/fwhl_oz.ZIP)
+Zip of Files from qr10full.exe | [qrally.zip](bin/other/qrally.zip)
+
 
 ## Quake Rally Precursors and Extensions
 
