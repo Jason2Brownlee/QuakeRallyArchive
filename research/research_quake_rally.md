@@ -485,8 +485,154 @@ is copyright of id Software. Quake Rally is copyright of
 Impact Development Team.
 ```
 
+### Quake Rally v1.2 (August 03 1997)
+
+Released as:
+
+* `qr12.zip`
+* `qr12_up.zip`
+
+**A copy `qr12_up.zip` has not yet been acquired.**
+
+Mentioned on BluesNews:
+
+> Sunday, August 3, 1997
+> New QuakeRally\
+> Version 1.2 of QuakeRally has been released on the QuakeRally page. The new version promises huge reductions in the bandwidth required for net QuakeRally, which is said to be quite playable over a 28.8 modem (single player code has been largely untouched). Thanks Robs.
+
+-- https://www.bluesnews.com/archives/aug97-1.html
+
+Contents of `qr12.zip`:
+
+```text
+-rw-rw-r--  0 0      0     1251840 30 Jul  1997 QRALLY.EXE
+drwxrwxr-x  0 0      0           0 18 Jul  1997 RALLY/
+-rw-rw-r--  0 0      0        1524  4 Oct  1994 BUTTON.WAV
+-rw-rw-r--  0 0      0        3624  3 Aug  1997 RALLY/RALLY.CFG
+-rw-rw-r--  0 0      0     3412938 16 Jul  1997 RALLY/QRDEM3.DEM
+-rw-rw-r--  0 0      0     1263204 16 Jul  1997 RALLY/QRDEM2.DEM
+-rw-rw-r--  0 0      0      401116 17 Jul  1997 RALLY/QRDEM1.DEM
+-rw-rw-r--  0 0      0    13504554  3 Aug  1997 RALLY/PAK0.PAK
+-rw-rw-r--  0 0      0      445000  3 Aug  1997 RALLY/PROGS.DAT
+-rw-rw-r--  0 0      0       42935  2 Aug  1997 RALLY/QRDOCS.TXT
+drwxrwxr-x  0 0      0           0 18 Jul  1997 RALLY/MAPS/
+-rw-rw-r--  0 0      0     1508324  3 Aug  1997 RALLY/PAK1.PAK
+-rw-rw-r--  0 0      0           0 18 Jul  1997 RALLY/CONFIG.CFG
+-rw-rw-r--  0 0      0      713560  3 Aug  1997 RALLY/MAPS/QRDM02.BSP
+-rw-rw-r--  0 0      0     1154220  3 Aug  1997 RALLY/MAPS/QRALLY02.BSP
+-rw-rw-r--  0 0      0     1424652  3 Aug  1997 RALLY/MAPS/QRALLY03.BSP
+-rw-rw-r--  0 0      0      379064  3 Aug  1997 RALLY/MAPS/QRDM01.BSP
+-rw-rw-r--  0 0      0     1314632  3 Aug  1997 RALLY/MAPS/QRALLY01.BSP
+-rw-rw-r--  0 0      0      858212 30 Jul  1997 RALLY/MAPS/START.BSP
+-rw-rw-r--  0 0      0        2036 18 Jun  1997 RALLY/MAPS/QRALLY02.TXT
+-rw-rw-r--  0 0      0        1698 29 Jul  1997 RALLY/MAPS/QRDM03.TXT
+-rw-rw-r--  0 0      0      672272  3 Aug  1997 RALLY/MAPS/QRDM03.BSP
+-rw-rw-r--  0 0      0      697076 18 Jul  1997 RALLY/MAPS/CULT.BSP
+-rw-rw-r--  0 0      0        1848 13 Jul  1997 RALLY/MAPS/QRDM02.TXT
+-rw-rw-r--  0 0      0      915247  3 Aug  1997 RALLY/MAPS/QRDM04.BSP
+```
 
 
+### Quake Rally Music (August 18 1996)
+
+Released as `qrallymusic.zip`.
+
+Contents of archive:
+
+```text
+-rw-rw-r--  0 0      0      229900 13 Oct  1993 qracer6.mod
+-rw-rw-r--  0 0      0      295090 13 Oct  1993 qracer5.mod
+-rw-rw-r--  0 0      0      262232 13 Oct  1993 qracer4.mod
+-rw-rw-r--  0 0      0         388 18 Aug  1997 qracer.txt
+-rw-rw-r--  0 0      0      296618 13 Oct  1993 qracer2.mod
+-rw-rw-r--  0 0      0      205472 13 Oct  1993 qracer1.mod
+-rw-rw-r--  0 0      0      240550 13 Oct  1993 qracer3.mod
+```
+
+Readme:
+
+```text
+Six music modules (.mod) created for
+the -free- Quake addon, QUAKE RALLY.
+
+All modules written by Virgill/Artwork.
+Copyright 1997 Virgill/Artwork. Please
+don't ripp off this work, it's purely
+for listening enjoyment.
+
+The 6 modules were used as looping
+ingame background music.
+
+Quake Rally homepage:
+
+    http://impact.frag.com/rally
+
+-Virgill (no current email address)
+```
+
+
+### Quake Rally Leftovers (March 29 1998)
+
+Released as `qrlo1.zip`.
+
+Mentioned on BluesNews:
+
+> Sunday, March 29, 1998\
+> QuakeRally: Leftovers\
+> Bringing some closure to the QuakeRally project that brought the magic of road rage to the world of Quake rage, is version 1.0 of QuakeRally: Leftovers, now available on the Impact Development Team page. QuakeRally hit the skids when Quake II was released, so all the stuff being worked on at that point has been rolled into an unsupported release that includes qrally4 (the lost map) and a couple of new features, including skidmarks (QuakeRally 1.2 required).
+
+-- https://www.bluesnews.com/archives/march98-4.html
+
+Archive contents:
+
+```text
+-rw-rw-r--  0 0      0       11313 29 Mar  1998 rally/leftovers.txt
+-rw-rw-r--  0 0      0      664446  7 Sep  1997 rally/other/RAW.MAP
+-rw-rw-r--  0 0      0      888909 28 Mar  1998 rally/other/qrally04.map
+-rw-rw-r--  0 0      0      351778 18 Jan  1998 rally/other/start.map
+-rw-rw-r--  0 0      0      299275 21 Jun  1997 rally/other/qrally01.map
+-rw-rw-r--  0 0      0     7385860 28 Mar  1998 rally/pak2.pak
+-rw-rw-r--  0 0      0       44623 23 Mar  1998 rally/QRdocs.txt
+-rw-rw-r--  0 0      0      449296 12 Aug  1997 rally/PROGS.DAT
+-rw-rw-r--  0 0      0     3424415 28 Mar  1998 rally/pak3.pak
+```
+
+Readme header:
+
+```text
+----------------------
+QUAKE RALLY: Leftovers                     [ Impact Development Team 3/98 ]
+----------------------
+
+-=> INTRO <=-
+
+    QR:Leftovers is the final release of Quake Rally, a mod for Quake1.
+
+    Included are many of the elements intended to be used in Ultimate
+    Rally including maps, new cars and the new odd feature or two. Ultimate
+    Rally was intended to be a major update, with nearly a dozen new cars,
+    heavily tweaked controls - including individual controls for each car -
+    and bots.
+
+    UR was cut off at the crossroads with the release of Quake2. Suddenly
+    playing Quake1 mods become old news, and editing Quake1 become.. boring.
+
+    Leftovers doesn't represent all of the UR work since most of the new
+    code was specific to UR (although skidmarks are included!). Apart from
+    the new code, and the 'qrally04' map, the real big draw card for UR
+    were the many highly professional car models created by Stecki. He
+    recently released these UR models in QR v1.2 format on his web page,
+    Deconstruct (see the Web Pages section below).
+
+    QR:Leftovers is as unsupported as any release is ever likely to be.
+    The bits and pieces present are released as-is, and if they don't
+    ultimately work then that is how it is. Spare time is now better spent
+    on our various Q2 projects than continuing work on something very few
+    people will actually bother to download, but it IS a good feeling to
+    finally put the icing on what has been one of the most fun projects
+    we've had the pleasure of working on.
+...
+```
 
 
 
