@@ -45,6 +45,11 @@ Archive contents:
 -rw-rw-r--  0 0      0       13093  2 Dec  1996 Quake/WorldCraft/quake.fgd
 ```
 
+Historical Locations:
+
+* ftp://ftp.canvasnet.com/quake/levels/map/qr_maps.zip
+* http://www.frag.com/quakerally/qr_maps.zip
+
 ### Quake Rally Beta Review (December 19 1996)
 
 A review of an early beta version of Quake Rally by Anthony Alphier aka "DaKiller" was shared in mid December 1996:
@@ -161,6 +166,41 @@ familar with Sega Rally or Daytona but hopefully these .dem's
 demonstrate that there does be fun here!
 ...
 ```
+
+Appears on the [Gambler 5](https://discmaster.textfiles.com/browse/22534) CD.
+
+Historical Locations:
+
+* ftp://ftp.games.worldonline.nl/quake/demos/qr_demo.zip
+* ftp://ftp.stomped.com/pub/quake/demos/qr_demo.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr_demo.zip
+* ftp://ftp.torget.se/pub/games/quake/demos/qr_demo.zip
+* http://asp.planetquake.com/dl/dl.asp?cineplex/qr_demo.zip
+* http://ftp.sunet.se/idgames2/planetquake/cineplex/qr_demo.zip
+* http://ftp.sunet.se/planetquake/cineplex/qr_demo.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/cineplex/qr_demo.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/cineplex/qr_demo.zip
+* http://impact.frag.com/files/qr_demo.zip
+* http://mirror.aarnet.edu.au/games/planetquake/cineplex/qr_demo.zip
+* http://mirrors.telepac.pt/pub/idgames2/planetquake/cineplex/qr_demo.zip
+* http://redwood.gatsbyhouse.com/files/quakec/qr_demo.zip
+* http://redwood.gatsbyhouse.com/quake/files/quakec/qr_demo.zip
+* http://redwood.stomped.com/files/quakec/qr_demo.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/cineplex/qr_demo.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/cineplex/qr_demo.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/cineplex/qr_demo.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/cineplex/qr_demo.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/cineplex/qr_demo.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/cineplex/qr_demo.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/cineplex/qr_demo.zip
+* http://www.bluesnews.com/files/qr_demo.zip
+* http://www.frag.com/quakerally/qr_demo.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/cineplex/qr_demo.zip
+* http://www.gamers.org/pub/idgames2/planetquake/cineplex/qr_demo.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/cineplex/qr_demo.zip
+* http://www.quakehole.com/files/quakec/qr_demo.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/cineplex/qr_demo.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/cineplex/qr_demo.zip
 
 ### Quake Rally New Homepage (March 28 1997)
 
@@ -287,11 +327,65 @@ Readme header:
  certain map types, are not in the intitial Quake Rally released and
  will appear in later revisions.
  ...
- ```
+```
+
+Appears on the [Gambler 9](https://discmaster.textfiles.com/browse/22538), [Secret Service 50b](https://discmaster.textfiles.com/browse/22092), and [PCPP Game Guide 2](https://discmaster.textfiles.com/browse/16071) CDs.
+
+Historical Locations:
+
+* ftp://ftp.cdrom.com/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.cdrom.com/pub/quake/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr10full.exe
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.datacomm.ch/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr10full.exe
+* ftp://ftp.epix.net/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.freesoftware.com/pub/quake/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.gamers.org/pub/games/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.iis.com.br/pub/mirror/Quake/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr10full.exe
+* ftp://ftp.powerup.com.au/pub/games/quake/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.sci.fi/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.stomped.com/pub/quake/misc/qr10full.exe
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.task.gda.pl/pub/games/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr10full.exe
+* ftp://ftp.telepac.pt/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://mirror.aarnet.edu.au/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/total_conversions/quakerally/qr10full.exe
+* http://ftp.gamers.org/pub/games/idgames2/total_conversions/quakerally/qr10full.exe
+* http://ftp.mancubus.net/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* http://ftp.sunet.se/idgames2/total_conversions/quakerally/qr10full.exe
+* http://ftp.sunet.se/pub/pc/games/idgames2/total_conversions/quakerally/qr10full.exe
+* http://ftp.telepac.pt/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* http://impact.frag.com/files/qr10full.exe
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/total_conversions/quakerally/qr10full.exe
+* http://sunsite.org.uk/packages/idgames2/total_conversions/quakerally/qr10full.exe
+* http://www.cdrom.com/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* http://www.cdrom.com/pub/quake/total_conversions/quakerally/qr10full.exe
+* http://www.gamers.org/pub/games/idgames2/total_conversions/quakerally/qr10full.exe
+* http://www.gamers.org/pub/idgames2/total_conversions/quakerally/qr10full.exe
+* http://www.illustrations.co.uk/thezone/rtw/qr10full.exe
+* http://www.ocrana.de/files/files/themes/quakerally/qr10full.exe
+* http://www.time2quake.com/filez/quakerally/qr10full.exe
+* http://www.uow.edu.au/~wstubbs/rally/qr10full.exe
+* https://www.ocrana.de/files/total_conversions/quakerally/qr10full.exe
+* https://www.quaddicted.com/files/idgames2/total_conversions/quakerally/qr10full.exe
 
 ### Quake Rally v1.0b (July 19 1997)
 
 Released as `qr10b_up.zip`.
+
+Listed on Time2Quake:
+
+```text
+[   ] qr10b_up.zip           19-Jul-97 19:59   160k
+[   ] qr10d_up.zip           21-Jul-97 11:40   161k
+[   ] qr10full.exe           18-Jul-97 22:19   7.6M
+[   ] qrspecs.zip            21-Jul-97 14:56   317k
+```
+
+-- [http://www.time2quake.com/filez/quakerally/](https://web.archive.org/web/19971016045607/http://www.time2quake.com/filez/quakerally/)
 
 Archive contents:
 
@@ -301,9 +395,34 @@ Archive contents:
 -rw-rw-r--  0 0      0       19180 19 Jul  1997 Pak2.pak
 ```
 
+Appears on the [Gambler 9](https://discmaster.textfiles.com/browse/22538) CD.
+
+Historical Locations:
+
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr10b_up.zip
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr10b_up.zip
+* http://impact.frag.com/files/qr10b_up.zip
+* http://www.time2quake.com/filez/quakerally/qr10b_up.zip
+
 ### Quake Rally v1.0c (July 20 1997)
 
 Released as `qr10c_up.zip`.
+
+Mentioned in USENET posts:
+
+> Piotr Marek Jr. 24 July 1997, 5:00:00 pm
+>
+> ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/\
+> sa pliki w tej chwili:\
+>
+> -rw-r--r-- 1 pmj wwwadm 164461 Jul 21 01:21 qr10c_up.zip\
+> -rw-r--r-- 1 pmj wwwadm 7985071 Jul 21 00:59 qr10full.exe\
+> -rw-r--r-- 1 pmj wwwadm 153337 Jul 23 19:35 qr11a_up.zip\
+> -rw-r--r-- 1 pmj wwwadm 471676 Jul 23 19:33 qr11beta.zip\
+>
+> YoonioR
+
+-- [pl.rec.gry.komputerowe](https://groups.google.com/g/pl.rec.gry.komputerowe/c/1aYlGZTAcc4/m/XJSwyP2zC6IJ)
 
 Archive contents:
 
@@ -312,6 +431,13 @@ Archive contents:
 -rw-rw-r--  0 0      0      438652 20 Jul  1997 progs.dat
 -rw-rw-r--  0 0      0       19180 19 Jul  1997 Pak2.pak
 ```
+
+Appears on the [Secret Service 50b](https://discmaster.textfiles.com/browse/22092) CD.
+
+Historical Locations:
+
+* ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr10c_up.zip
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr10c_up.zip
 
 ### Quake Rally v1.0d (July 21 1997)
 
@@ -327,6 +453,21 @@ Mentioned on BluesNews:
 
 -- https://www.bluesnews.com/archives/july97-3.html
 
+Listed on Time2Quake:
+
+```text
+[   ] qr10b_up.zip           19-Jul-97 19:59   160k
+[   ] qr10d_up.zip           21-Jul-97 11:40   161k
+[   ] qr10full.exe           18-Jul-97 22:19   7.6M
+[   ] qrspecs.zip            21-Jul-97 14:56   317k
+```
+
+-- [http://www.time2quake.com/filez/quakerally/](https://web.archive.org/web/19971016045607/http://www.time2quake.com/filez/quakerally/)
+
+Historical Locations:
+
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr10d_up.zip
+* http://www.time2quake.com/filez/quakerally/qr10d_up.zip
 
 ### Quake Rally v1.0e (July 21 1997)
 
@@ -354,6 +495,54 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr10e_up.zip
 
+Historical Locations:
+
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr10e_up.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr10e_up.zip
+* http://impact.frag.com/files/qr10e_up.zip
+
+### Quake Rally Specifications (July 21 1997)
+
+Released as `qrspecs.zip`.
+
+I suspect this is a zip of the file `specs.htm` and perhaps other specification documents on the Quake Rally website.
+
+Mentioned on the MudFlats:
+
+> 22.7.97; 1:56 AM - Bring in the mud...
+>
+> ...But what am I telling you that for? You already have it. You already love it. And now that Ridah has put out the track specs, you're working on your own maps. Well, that's what the mud flats is here for. We're your source for QR news and maps. I just set the page up, so I know it looks kind of bad.. but a prettier version is coming soon.
+
+-- [http://anet-stl.com/~aclowry/mud/main.html](https://web.archive.org/web/19970724105803/anet-stl.com/~aclowry/mud/main.html)
+
+Links:
+
+* http://anet-stl.com/~aclowry/mud/qrspecs.zip
+
+Listed on Time2Quake:
+
+```text
+[   ] qr10b_up.zip           19-Jul-97 19:59   160k
+[   ] qr10d_up.zip           21-Jul-97 11:40   161k
+[   ] qr10full.exe           18-Jul-97 22:19   7.6M
+[   ] qrspecs.zip            21-Jul-97 14:56   317k
+```
+
+-- [http://www.time2quake.com/filez/quakerally/](https://web.archive.org/web/19971016045607/http://www.time2quake.com/filez/quakerally/)
+
+Mentioned on USENET:
+
+> The Quietust 24 July 1997, 5:00:00 pm
+>
+> Get http://impact.frag.com/files/qrspecs.zip
+
+-- [rec.games.computer.quake.editing](https://groups.google.com/g/rec.games.computer.quake.editing/c/fOUL9f79HY8/m/RNF5xuhXAKIJ)
+
+Historical Locations:
+
+* http://anet-stl.com/~aclowry/mud/qrspecs.zip
+* http://www.time2quake.com/filez/quakerally/qrspecs.zip
+
 ### Quake Rally v1.1 Beta (July 22 1997)
 
 Released as `qr11beta.zip`.
@@ -380,6 +569,12 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr11beta.zip
 
+Historical Locations:
+
+* ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11beta.zip
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11beta.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr11beta.zip
+* http://anet-stl.com/~aclowry/mud/qr11beta.zip
 
 ### Quake Rally v1.1a (July 23 1997)
 
@@ -412,6 +607,22 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr11a.zip
 
+Mentioned in USENET posts:
+
+> Piotr Marek Jr. 24 July 1997, 5:00:00 pm
+>
+> ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/\
+> sa pliki w tej chwili:\
+>
+> -rw-r--r-- 1 pmj wwwadm 164461 Jul 21 01:21 qr10c_up.zip\
+> -rw-r--r-- 1 pmj wwwadm 7985071 Jul 21 00:59 qr10full.exe\
+> -rw-r--r-- 1 pmj wwwadm 153337 Jul 23 19:35 qr11a_up.zip\
+> -rw-r--r-- 1 pmj wwwadm 471676 Jul 23 19:33 qr11beta.zip\
+>
+> YoonioR
+
+-- [pl.rec.gry.komputerowe](https://groups.google.com/g/pl.rec.gry.komputerowe/c/1aYlGZTAcc4/m/XJSwyP2zC6IJ)
+
 `qr11a.zip` archive contents:
 
 ```text
@@ -422,11 +633,30 @@ Links:
 -rw-rw-r--  0 0      0       19180 19 Jul  1997 Pak2.pak
 ```
 
+Historical Locations for `qr11a.zip`:
+
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr11a.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr11a.zip
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr11a.zip
+* http://impact.frag.com/files/qr11a.zip
+* http://www.ocrana.de/files/files/themes/quakerally/qr11a.zip
+* http://www.ocrana.de/files/total_conversions/quakerally/qr11a.zip
+
+Historical Locations for `qr11a_up.zip`:
+
+* ftp://ftp.chip.pl/Pub/Quake/Conversions/qrally/qr11a_up.zip
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/total_conversions/qrally/qr11a_up.zip
+* http://anet-stl.com/~aclowry/mud/qr11a_up.zip
+
 ### Quake Rally Text Wad v1.0 (July ?? 1997)
 
 Released as `qrWAD10.zip`.
 
 **A copy of this release has not yet been acquired.**
+
+Historical Locations:
+
+* http://deathed.stomped.com/files/qrwad10.zip
 
 ### Quake Rally Text Wad v1.1 (July 25 1997)
 
@@ -484,6 +714,12 @@ All textures are copyright by thier respective authors. Quake
 is copyright of id Software. Quake Rally is copyright of
 Impact Development Team.
 ```
+
+Appears on the [PC/CD Gamer UK 73](https://discmaster.textfiles.com/browse/33557) CD.
+
+Historical Locations:
+
+* http://impact.frag.com/files/qrWAD11.zip
 
 ### Quake Rally v1.2 (August 03 1997)
 
@@ -545,6 +781,37 @@ drwxrwxr-x  0 0      0           0 18 Jul  1997 RALLY/MAPS/
 -rw-rw-r--  0 0      0      915247  3 Aug  1997 RALLY/MAPS/QRDM04.BSP
 ```
 
+The file `qr12.zip` appears on the [GameStar 1998 October](https://discmaster.textfiles.com/browse/23154), [Hot Shareware 35](https://discmaster.textfiles.com/browse/17663), [PC/CD Gamer UK 73](https://discmaster.textfiles.com/browse/33557), and [PC Gamer: The Extended Play Collection 1](https://discmaster.textfiles.com/browse/42370) CDs.
+
+Historical Locations for `qr12.zip`:
+
+* ftp://donr.hbp.com/pub/qr/qr12.zip
+* ftp://ftp.brz.com.br/warlock/qr12.zip
+* ftp://ftp.cdrom.com/.23/idgames2/frag.com/impact/qr12.zip
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr12.zip
+* ftp://ftp.frag.com/pub/impact/qr12.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr12.zip
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr12.zip
+* ftp://ftp.torget.se/pub/games/quake/tc/qr12.zip
+* ftp://ftp.torget.se/quake/tc/qr12.zip
+* ftp://quake.df.ru/pub/Quake/Patches/QRally/qr12.zip
+* http://impact.frag.com/files/qr12.zip
+* http://mime.ablecommerce.com/quake/qr/qr12.zip
+* http://quakerally.com/files/qr12.zip
+* http://www.iac.spb.ru/sam/archives/qr12.zip
+* http://www.quakerally.com/files/qr12.zip
+* http://www.quaketerminus.com/mods/qr12.zip
+* http://www.quaketerminus.freeola.com/mods/qr12.zip
+* http://www.rmplc.co.uk/eduweb/sites/mkent/qr12.zip
+
+Historical Locations for `qr12_up.zip`:
+
+* ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr12_up.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qr12_up.zip
+* ftp://ftp.telefragged.com/pub/quake/quakec/rally/qr12_up.zip
+* ftp://ftp.torget.se/quake/tc/qr12_up.zip
+* http://impact.frag.com/files/qr12_up.zip
+* http://mime.ablecommerce.com/quake/qr/qr12_up.zip
 
 ### Quake Rally Music (August 18 1996)
 
@@ -594,6 +861,12 @@ Quake Rally homepage:
 
 -Virgill (no current email address)
 ```
+
+Appears on the [PC/CD Gamer UK 73](https://discmaster.textfiles.com/browse/33557) CD.
+
+Historical Locations:
+
+* http://impact.frag.com/files/qrallymusic.zip
 
 ### Progress Update (February 21 1998)
 
@@ -699,6 +972,14 @@ QUAKE RALLY: Leftovers                     [ Impact Development Team 3/98 ]
 ...
 ```
 
+Appears on the [PC/CD Gamer UK 73](https://discmaster.textfiles.com/browse/33557) CD.
+
+Historical Locations:
+
+* ftp://ftp.frag.com/frag/impact/qrlo1.zip
+* ftp://ftp.stomped.com/pub/redwood/quakec/qrlo1.zip
+* http://quakerally.com/files/qrlo1.zip
+* http://www.quakerally.com/files/qrlo1.zip
 
 ## References
 
