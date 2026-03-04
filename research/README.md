@@ -4,7 +4,7 @@
 * [Quake Kart Release Research](research_quake_kart.md)
 * [Ultimate Rally Research](research_ultimate_rally.md)
 * Quake Championship Racing Research
-* Quake Rally 2097 Research
+* [Quake Rally 2097 Research](research_quake_rally_2097.md)
 * Gold Cup Research
 
 Related:

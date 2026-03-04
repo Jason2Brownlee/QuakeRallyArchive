@@ -948,6 +948,16 @@ Links:
 * ftp://ftp.stomped.com/pub/redwood/quakec/qrlo1.zip
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr12.zip
 
+Mentioned on ShugaShack:
+
+> Sunday, March 29  2:08pm\
+> QuakeRally\
+> Team Impact has released everything they were working on for the QuakeRally project for Quake1 that was never seen. This includes some of the nifty features they were working on like skid marks as well as a new map that was not released as well. You of course will have to download the full QuakeRally first, then the extra stuff as well. (Version 1.2)
+>
+> Maybe if you're cool, you can play it on a VooDoo2 card, huh Jack? :)
+
+-- [http://www.shugashack.com/archives/a4_m29.htm](https://web.archive.org/web/20010117055100/http://www.shugashack.com/archives/a4_m29.htm)
+
 Archive contents:
 
 ```text
