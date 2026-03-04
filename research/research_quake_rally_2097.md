@@ -1,5 +1,10 @@
 # Quake Rally 2097 Research
 
+Research into Quake Rally 2097 aka "QuakeRally2097" aka "QR2097".
+
+I believe the name is inspired by the game "[Wipeout 2097](https://en.wikipedia.org/wiki/Wipeout_2097)".
+
+
 ## Official Homepages
 
 1. `http://levelab.darknet.net/qrally2097/`
@@ -23,5 +28,37 @@ Links:
 
 * http://levelab.darknet.net/qrally2097/
 
+## Tubular Cataclysm Map (October 30 1997)
 
+Released as `peejqr2.zip`
 
+Map developed for "QR2097".
+
+Readme header:
+
+```text
+Released: 30th Oct 1997 - Beta Release
+
+================================================================
+Title                   : Tubular Cataclysm
+BSP Name                : PEEJQR2.BSP
+Author                  : Paul "PeeJ" James
+Email Address           : paul.james@uea.ac.uk
+Home Page               : http://www.uea.ac.uk/~x9730796/
+Web Site:	  	: http://quake.perfect.co.uk/dmp/
+
+Misc. Author Info       : I run the DMP at Quake Perfect. check it out if you
+			  want deathmatch maps.
+
+Description             : Quake Rally 2097 track, twisting tubes and an open
+			  area with a big jump.
+
+Additional Thanks to    : id for Doom, Quake, MAP, QBSP & QuakeC
+			  Impact for the best QC mod, QRally.
+			  Copy for inventing QR2097.
+
+Additional Notes        :
+
+================================================================
+...
+```
