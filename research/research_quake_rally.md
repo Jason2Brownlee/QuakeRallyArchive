@@ -264,6 +264,16 @@ Links:
 * ftp://ftp.stomped.com/pub/quake/misc/qr10full.exe
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr10e_up.zip
 
+Mentioned on ShugaShack:
+
+> Saturday, July 18th 1:22pm\
+> QuakeRally Released!\
+> Thanks to PMS and 3dman for the word that QuakeRally, probably one of the most ever anticipated Quake patches has hit the net. grab a copy at http://impact.frag.com/files/qr10full.exe and visit the web page at impact.frag.com
+>
+> update: The server is grinding to a halt, check out the mirror site list at http://impact.frag.com/rally/
+
+-- [http://www.shugashack.com/archives/j20_j14.htm](https://web.archive.org/web/20000816012610/http://www.shugashack.com/archives/j20_j14.htm)
+
 Archive contents:
 
 ```text
@@ -495,6 +505,14 @@ Links:
 
 * ftp://ftp.stomped.com/pub/redwood/quakec/qr10e_up.zip
 
+Mentioned on ShugaShack:
+
+> Tuesday, July 22nd 7:34pm\
+> QRally v1.0e\
+> A few people missed the release a couple of days ago, well a new version with some bug fixes is out. Check the Impact page and grab a copy of Quake Rally. -Nai|s
+
+-- [http://www.shugashack.com/archives/j26_j21.htm](https://web.archive.org/web/20000816012603/http://www.shugashack.com/archives/j26_j21.htm)
+
 Historical Locations:
 
 * ftp://ftp.dataforce.net/pub/Quake/Patches/QRally/qr10e_up.zip
@@ -669,6 +687,15 @@ Mentioned on BluesNews:
 > The QuakeRally texture wad has been released, for all you aspiring road map makers. Thanks Thrill.
 
 -- https://www.bluesnews.com/archives/july97-3.html
+
+Mentioned on ShugaShack:
+
+> Friday, July 25th 9:27pm\
+> QRally textures\
+> If you were too lazy to extract all the textures from the maps released with QRally, it's been done for ya now over at the Rally page. -Fragster
+
+-- [http://www.shugashack.com/archives/j26_j21.htm](https://web.archive.org/web/20000816012603/http://www.shugashack.com/archives/j26_j21.htm)
+
 
 Archive contents:
 
